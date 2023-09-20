@@ -1,0 +1,1409 @@
+2022.06.22, 12:42:45 --> Application Started
+2022.06.22, 13:00:02 --> Scraping Called. Total Share:386
+2022.06.22, 13:00:03 --> Sms Send Success (To - 8801799089893). MessageId: 83bdae66-bc77-4ce8-8a33-e5b195ce2503
+2022.06.22, 14:00:02 --> Scraping Called. Total Share:386
+2022.06.22, 14:00:03 --> Sms Send Success (To - 8801968654048). MessageId: 23b86088-c342-49d1-9ef4-acafb29897e8
+2022.06.23, 10:00:02 --> Scraping Called. Total Share:386
+2022.06.23, 10:00:03 --> Sms Send Success (To - 8801968654048). MessageId: 087e9d2a-817c-4d68-8844-a08c70401515
+2022.06.23, 10:08:50 --> Application Started
+2022.06.23, 10:27:10 --> Application Started
+2022.06.23, 10:28:33 --> Application Started
+2022.06.23, 10:30:02 --> Scraping Called. Total Share:386
+2022.06.23, 10:30:03 --> Sms Send Failed (To - 8801799089893). Result:TypeError: Converting circular structure to JSON
+2022.06.23, 10:45:04 --> Scraping Called. Total Share:386
+2022.06.23, 10:45:13 --> Scraping Called. Total Share:386
+2022.06.23, 10:45:14 --> Sms Send Failed (To - 8801968654048). Result:TypeError: Converting circular structure to JSON
+2022.06.23, 10:46:55 --> Application Started
+2022.06.23, 10:51:56 --> Application Started
+2022.06.23, 10:52:40 --> Scraping Called. Total Share:386
+2022.06.23, 10:52:41 --> Sms Send Success (To - 8801799089893). MessageId: 627da70d-7451-4ebf-9741-5edd8eb42a2b
+2022.06.23, 11:00:45 --> Application Started
+2022.06.23, 11:01:32 --> Application Started
+2022.06.23, 11:03:41 --> Application Started
+2022.06.23, 11:09:59 --> Application Started
+2022.06.23, 11:30:02 --> Scraping Called. Total Share:386
+2022.06.23, 11:30:03 --> Sms Send Success (To - 8801799089893). MessageId: 6019a823-51d2-4557-92ca-ae770331e9cb
+2022.06.23, 12:30:02 --> Scraping Called. Total Share:386
+2022.06.23, 12:30:03 --> Sms Send Success (To - 8801968654048). MessageId: a1e7ff82-3831-4674-a8d9-a10dcf998469
+2022.06.23, 12:52:43 --> Scraping Called. Total Share:386
+2022.06.23, 12:55:56 --> Scraping Called. Total Share:386
+2022.06.23, 12:56:12 --> Scraping Called. Total Share:386
+2022.06.23, 13:10:08 --> Scraping Called. Total Share:386
+2022.06.23, 13:30:02 --> Scraping Called. Total Share:386
+2022.06.23, 13:30:03 --> Sms Send Success (To - 8801968654048). MessageId: 1d3761a7-cf9e-4bd6-9647-a40bd8f99dcb
+2022.06.23, 14:30:02 --> Scraping Called. Total Share:386
+2022.06.23, 14:30:03 --> Sms Send Success (To - 8801968654048). MessageId: 94a15749-d275-4d17-a625-281d4c2421f8
+2022.06.24, 09:30:59 --> Application Started
+2022.06.26, 10:30:02 --> Scraping Called. Total Share:386
+2022.06.26, 10:30:04 --> Sms Send Success (To - 8801968654048). MessageId: 2d956c5c-57dc-4859-a3ee-4bda4096e62e
+2022.06.26, 11:30:02 --> Scraping Called. Total Share:386
+2022.06.26, 11:30:03 --> Sms Send Success (To - 8801968654048). MessageId: b416ba45-84d6-44e5-a3a3-ad4167b44856
+2022.06.26, 12:30:02 --> Scraping Called. Total Share:386
+2022.06.26, 12:30:03 --> Sms Send Success (To - 8801968654048). MessageId: 434c2641-821e-4510-82c2-3e88fa249fd8
+2022.06.26, 13:30:02 --> Scraping Called. Total Share:386
+2022.06.26, 13:30:03 --> Sms Send Success (To - 8801968654048). MessageId: aa3e8edd-c48c-47b6-8265-f666e890efb5
+2022.06.26, 14:30:02 --> Scraping Called. Total Share:386
+2022.06.26, 14:30:03 --> Sms Send Success (To - 8801968654048). MessageId: 72ddfaa6-3dbe-49ea-82dd-e4136e3c9d05
+2022.06.27, 10:30:02 --> Scraping Called. Total Share:386
+2022.06.27, 10:30:04 --> Sms Send Success (To - 8801781400109). MessageId: 28510349-9106-4438-a6bf-49f9a629b488
+2022.06.27, 11:30:02 --> Scraping Called. Total Share:386
+2022.06.27, 11:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 0cd1bbd1-f2ed-42f4-9514-e3a0b566e46f
+2022.06.27, 12:30:03 --> Scraping Called. Total Share:386
+2022.06.27, 12:30:04 --> Sms Send Success (To - 8801781400109). MessageId: 5609706b-55fd-4d1f-9cd5-a461adebec06
+2022.06.27, 13:30:02 --> Scraping Called. Total Share:386
+2022.06.27, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 5b49bd9e-78e8-41af-b413-b953c401f8c0
+2022.06.27, 14:30:02 --> Scraping Called. Total Share:386
+2022.06.27, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 30d43e95-45a9-4306-8013-5a0ede4634f9
+2022.06.30, 21:48:02 --> Application Started
+2022.06.30, 21:48:46 --> Application Started
+2022.06.30, 21:49:22 --> Application Started
+2022.06.30, 21:50:56 --> Application Started
+2022.06.30, 21:52:31 --> Application Started
+2022.06.30, 21:59:28 --> Application Started
+2022.06.30, 22:01:27 --> Application Started
+2022.06.30, 22:01:27 --> Application Started
+2022.06.30, 22:01:27 --> Application Started
+2022.06.30, 22:01:27 --> Application Started
+2022.06.30, 22:01:27 --> Application Started
+2022.06.30, 22:01:27 --> Application Started
+2022.06.30, 22:01:27 --> Application Started
+2022.06.30, 22:01:27 --> Application Started
+2022.06.30, 22:01:27 --> Application Started
+2022.06.30, 22:01:27 --> Application Started
+2022.06.30, 22:01:27 --> Application Started
+2022.06.30, 22:01:27 --> Application Started
+2022.06.30, 22:01:28 --> Application Started
+2022.06.30, 22:01:28 --> Application Started
+2022.06.30, 22:01:28 --> Application Started
+2022.06.30, 22:01:28 --> Application Started
+2022.06.30, 22:01:28 --> Application Started
+2022.06.30, 22:01:28 --> Application Started
+2022.06.30, 22:01:28 --> Application Started
+2022.06.30, 22:01:28 --> Application Started
+2022.06.30, 22:01:28 --> Application Started
+2022.06.30, 22:01:28 --> Application Started
+2022.06.30, 22:01:28 --> Application Started
+2022.06.30, 22:01:28 --> Application Started
+2022.06.30, 22:01:29 --> Application Started
+2022.06.30, 22:01:29 --> Application Started
+2022.06.30, 22:01:29 --> Application Started
+2022.06.30, 22:01:29 --> Application Started
+2022.06.30, 22:01:29 --> Application Started
+2022.06.30, 22:01:29 --> Application Started
+2022.06.30, 22:01:29 --> Application Started
+2022.06.30, 22:01:29 --> Application Started
+2022.06.30, 22:01:29 --> Application Started
+2022.06.30, 22:01:29 --> Application Started
+2022.06.30, 22:01:29 --> Application Started
+2022.06.30, 22:01:29 --> Application Started
+2022.06.30, 22:01:29 --> Application Started
+2022.06.30, 22:01:30 --> Application Started
+2022.06.30, 22:01:30 --> Application Started
+2022.06.30, 22:01:30 --> Application Started
+2022.06.30, 22:01:30 --> Application Started
+2022.06.30, 22:01:30 --> Application Started
+2022.07.01, 09:28:47 --> Application Started
+2022.07.03, 10:30:02 --> Scraping Called. Total Share:386
+2022.07.03, 10:30:03 --> Sms Send Failed (To - 8801781400109). Reason: Failover route not found
+2022.07.03, 11:30:01 --> Scraping Called. Total Share:386
+2022.07.03, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 7be35d6e-befc-478a-85d0-758acad07ecd
+2022.07.03, 12:30:01 --> Scraping Called. Total Share:386
+2022.07.03, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: e1aa4ed5-cb15-46c9-80d9-7cc855fff7f4
+2022.07.03, 13:30:02 --> Scraping Called. Total Share:386
+2022.07.03, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: ba898e7d-e23c-4b02-a0cd-ffe834232d61
+2022.07.03, 14:30:01 --> Scraping Called. Total Share:386
+2022.07.03, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 5c65a300-7d13-4c78-960d-0c62df6b9eb9
+2022.07.04, 10:30:02 --> Scraping Called. Total Share:386
+2022.07.04, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 0f48245d-8768-4fc3-8e01-a72ebf6fcada
+2022.07.04, 11:30:01 --> Scraping Called. Total Share:386
+2022.07.04, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 6f962cc0-6429-4fb7-9f43-ec7cadeb9149
+2022.07.04, 12:30:01 --> Scraping Called. Total Share:386
+2022.07.04, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: d0667561-969e-416f-8505-f6e86f66cebf
+2022.07.04, 13:30:02 --> Scraping Called. Total Share:386
+2022.07.04, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: c469fc93-6ed2-49f1-a7f2-3362d5808fd6
+2022.07.04, 14:30:01 --> Scraping Called. Total Share:386
+2022.07.04, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 41bbc9d7-9bd2-40d8-80ff-7a8f1a026d8b
+2022.07.05, 10:30:02 --> Scraping Called. Total Share:386
+2022.07.05, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 617ac8e9-b22e-4553-995f-6de026b6c9a4
+2022.07.05, 11:30:01 --> Scraping Called. Total Share:386
+2022.07.05, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: cb8de202-485c-47e3-a659-c4866cf0b75e
+2022.07.05, 12:30:01 --> Scraping Called. Total Share:386
+2022.07.05, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: d712b454-e85c-4e19-90e1-3ea117397ad1
+2022.07.05, 13:30:02 --> Scraping Called. Total Share:386
+2022.07.05, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 95fd268a-894d-4d5c-8414-cc0c0da3139e
+2022.07.05, 14:30:01 --> Scraping Called. Total Share:386
+2022.07.05, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: ab1f41ca-456a-4b4b-8732-d99de7597722
+2022.07.06, 10:30:02 --> Scraping Called. Total Share:386
+2022.07.06, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 5e57a313-e064-4c2c-bfa3-6d3f6828d4a9
+2022.07.06, 11:30:01 --> Scraping Called. Total Share:386
+2022.07.06, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 30ca8ac6-344a-490e-a394-cf6a31fdc703
+2022.07.06, 12:30:01 --> Scraping Called. Total Share:386
+2022.07.06, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 36429615-d036-43a5-9973-6834deedb974
+2022.07.06, 13:30:02 --> Scraping Called. Total Share:386
+2022.07.06, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: c7847740-c439-4fff-91c7-0ba3ee49cabc
+2022.07.06, 14:30:01 --> Scraping Called. Total Share:386
+2022.07.06, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 6793d9f3-a61e-4147-b620-3a6923fb9772
+2022.07.07, 10:30:02 --> Scraping Called. Total Share:386
+2022.07.07, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 6e1d431e-20c6-4c9e-b755-ef22b44a4d6f
+2022.07.07, 11:30:01 --> Scraping Called. Total Share:386
+2022.07.07, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 55d455e6-b652-477c-af12-542240c0bdf5
+2022.07.07, 12:30:01 --> Scraping Called. Total Share:386
+2022.07.07, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 59a24d0b-6101-4e4a-b66b-66213e87dabd
+2022.07.07, 13:30:02 --> Scraping Called. Total Share:386
+2022.07.07, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 4403e8c4-d56b-4ff5-8d78-bc6852779df8
+2022.07.07, 14:30:01 --> Scraping Called. Total Share:386
+2022.07.07, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: b77b8f25-2c29-4818-b9fd-868f7248b30b
+2022.07.10, 10:30:02 --> Scraping Called. Total Share:386
+2022.07.10, 10:30:03 --> Sms Send Failed (To - 8801781400109). Reason: Failover route not found
+2022.07.10, 11:30:01 --> Scraping Called. Total Share:386
+2022.07.10, 11:30:02 --> Sms Send Failed (To - 8801781400109). Reason: Failover route not found
+2022.07.10, 12:30:01 --> Scraping Called. Total Share:386
+2022.07.10, 12:30:02 --> Sms Send Failed (To - 8801781400109). Reason: Failover route not found
+2022.07.10, 13:30:01 --> Scraping Called. Total Share:386
+2022.07.10, 13:30:02 --> Sms Send Failed (To - 8801781400109). Reason: Failover route not found
+2022.07.10, 14:30:02 --> Scraping Called. Total Share:386
+2022.07.10, 14:30:02 --> Sms Send Failed (To - 8801781400109). Reason: Failover route not found
+2022.07.11, 10:30:02 --> Scraping Called. Total Share:386
+2022.07.11, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 2e1725c7-e91d-49f4-96da-6fecb0d9f074
+2022.07.11, 11:30:01 --> Scraping Called. Total Share:386
+2022.07.11, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: c0bc8c7a-1b5e-4905-87af-1e487edb5255
+2022.07.11, 12:30:01 --> Scraping Called. Total Share:386
+2022.07.11, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: b1cfeea1-b3fb-498c-8710-4a339062ca4a
+2022.07.11, 13:30:01 --> Scraping Called. Total Share:386
+2022.07.11, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 441912cb-2ed1-416c-bc9d-610066edd462
+2022.07.11, 14:30:02 --> Scraping Called. Total Share:386
+2022.07.11, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 7ce9ed99-bba8-403f-a891-12b76d408212
+2022.07.12, 10:30:01 --> Scraping Called. Total Share:386
+2022.07.12, 10:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 1b793946-0eff-4f81-ab05-cf05a6a7180f
+2022.07.12, 11:30:01 --> Scraping Called. Total Share:386
+2022.07.12, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: ba30bd34-8b1a-4a0f-bfe1-8f363a62c385
+2022.07.12, 12:30:01 --> Scraping Called. Total Share:386
+2022.07.12, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 54ac8b4f-66de-477c-9af5-b87d2090fc38
+2022.07.12, 13:30:02 --> Scraping Called. Total Share:386
+2022.07.12, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 1cdf7b07-285a-4751-add9-26c6ab5b31a2
+2022.07.12, 14:30:01 --> Scraping Called. Total Share:386
+2022.07.12, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 96782d68-bdaa-4d71-95b6-dd02747fa408
+2022.07.13, 10:30:01 --> Scraping Called. Total Share:0
+2022.07.13, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 636aaf0d-c3f8-4ed9-820a-01be41492ce3
+2022.07.13, 11:30:01 --> Scraping Called. Total Share:386
+2022.07.13, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 1478a6f9-49f1-446d-95a1-682ca24d8892
+2022.07.13, 12:30:01 --> Scraping Called. Total Share:386
+2022.07.13, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 89171a99-65a4-45a2-917a-0aef2eb93757
+2022.07.13, 13:30:01 --> Scraping Called. Total Share:386
+2022.07.13, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: ed57b9df-3213-4e1e-807b-c8ebd5601440
+2022.07.13, 14:30:01 --> Scraping Called. Total Share:386
+2022.07.13, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 4c674ecc-312d-4f18-82d0-1dcff7e5a97b
+2022.07.14, 10:30:02 --> Scraping Called. Total Share:386
+2022.07.14, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 315c0f27-7e60-4879-b600-c3b39e8dd0ed
+2022.07.14, 11:30:01 --> Scraping Called. Total Share:386
+2022.07.14, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 642b0b2f-8ef5-4140-96bf-eebdf70e58e0
+2022.07.14, 12:30:01 --> Scraping Called. Total Share:386
+2022.07.14, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 3d0a0c78-2a8b-4a53-a35d-983df60a7f2d
+2022.07.14, 13:30:01 --> Scraping Called. Total Share:386
+2022.07.14, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 08bd2388-f2ce-4b2f-9dcf-b153d55f2291
+2022.07.14, 14:30:02 --> Scraping Called. Total Share:386
+2022.07.14, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: e1066806-88b7-458b-b9c8-d979c2258cde
+2022.07.17, 10:30:02 --> Scraping Called. Total Share:386
+2022.07.17, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 01ea13ff-2a2a-4a58-a77d-cd74be123b15
+2022.07.17, 11:30:02 --> Scraping Called. Total Share:386
+2022.07.17, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 9605d80d-5315-4a3a-a48b-2c4c85daeb3e
+2022.07.17, 12:30:02 --> Scraping Called. Total Share:386
+2022.07.17, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: c3b9cc10-0d90-4091-9995-859b3d26c9c8
+2022.07.17, 13:30:01 --> Scraping Called. Total Share:0
+2022.07.17, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: ffa99f4e-7026-46dd-821a-0d3b61e47ccc
+2022.07.17, 14:30:05 --> Scraping Called. Total Share:386
+2022.07.17, 14:30:06 --> Sms Send Success (To - 8801781400109). MessageId: 3c638d38-174c-4c9e-af37-855047f0df51
+2022.07.18, 10:30:03 --> Scraping Called. Total Share:386
+2022.07.18, 10:30:04 --> Sms Send Success (To - 8801781400109). MessageId: c73c7f70-517e-4743-afb3-aa976b2399c9
+2022.07.18, 11:30:01 --> Scraping Called. Total Share:386
+2022.07.18, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 27f19d27-61a9-4a8f-b4de-ea700efdcb17
+2022.07.18, 12:30:03 --> Scraping Called. Total Share:386
+2022.07.18, 12:30:04 --> Sms Send Success (To - 8801781400109). MessageId: eb88c6af-9c3a-4f83-ae19-5ae6bf0aa8d4
+2022.07.18, 13:30:01 --> Scraping Called. Total Share:386
+2022.07.18, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 9895dfdb-dfaa-4b49-b2a2-f469bcf5930f
+2022.07.18, 14:30:01 --> Scraping Called. Total Share:386
+2022.07.18, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: ffda46be-6684-4ef2-97c7-15055fa488a1
+2022.07.19, 10:30:02 --> Scraping Called. Total Share:386
+2022.07.19, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: ef964a6e-2e52-4aa9-add1-7d7c79a9e440
+2022.07.19, 11:30:01 --> Scraping Called. Total Share:386
+2022.07.19, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: c9785a76-8200-43b0-b891-85e348767ba2
+2022.07.19, 12:30:01 --> Scraping Called. Total Share:386
+2022.07.19, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: a6d24505-d621-41c3-91c0-879980bf6049
+2022.07.19, 13:30:04 --> Scraping Called. Total Share:386
+2022.07.19, 13:30:05 --> Sms Send Success (To - 8801781400109). MessageId: cbdf0253-8178-47f9-b635-514fdf96416b
+2022.07.19, 14:30:01 --> Scraping Called. Total Share:386
+2022.07.19, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 71354d55-7853-4eca-85f7-eb0704842d4f
+2022.07.20, 10:30:02 --> Scraping Called. Total Share:386
+2022.07.20, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 3b51a734-1d0e-4dcb-a6b9-12a9cb53390b
+2022.07.20, 11:30:01 --> Scraping Called. Total Share:386
+2022.07.20, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 597828b8-965a-4588-916d-5016c3f77f06
+2022.07.20, 12:30:01 --> Scraping Called. Total Share:386
+2022.07.20, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: d87a23cd-9db6-4c57-9e2e-d42e2400a68d
+2022.07.20, 13:30:02 --> Scraping Called. Total Share:386
+2022.07.20, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 05ce0ca0-4001-4f3d-a086-6f7c9fecbba0
+2022.07.20, 14:30:01 --> Scraping Called. Total Share:386
+2022.07.20, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: b4845b14-953e-4025-a3e6-068f6fe95146
+2022.07.21, 10:30:02 --> Scraping Called. Total Share:386
+2022.07.21, 10:30:04 --> Sms Send Success (To - 8801781400109). MessageId: 4ac5eead-642a-4bcb-b187-67fe20d3291b
+2022.07.21, 11:30:01 --> Scraping Called. Total Share:386
+2022.07.21, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 65f6ad75-6dbf-4fa7-8b98-65b4a4fd3ba0
+2022.07.21, 12:30:01 --> Scraping Called. Total Share:386
+2022.07.21, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: d6df12c1-3035-4829-9559-39f848083890
+2022.07.21, 13:30:01 --> Scraping Called. Total Share:386
+2022.07.21, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 9657bce6-6961-4452-b247-c3d94f16ac60
+2022.07.21, 14:30:02 --> Scraping Called. Total Share:386
+2022.07.21, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 0ffd4ae2-e61d-4cf8-b559-0d201c7f12ae
+2022.07.24, 10:30:02 --> Scraping Called. Total Share:386
+2022.07.24, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 6ca736f7-6b16-4114-a247-04e06d832ca7
+2022.07.24, 11:30:02 --> Scraping Called. Total Share:386
+2022.07.24, 11:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 64f3876d-2669-42b4-8105-27076a9d8427
+2022.07.24, 12:30:01 --> Scraping Called. Total Share:386
+2022.07.24, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: a7ae2736-2c12-4926-bafb-4fb12625160b
+2022.07.24, 13:30:01 --> Scraping Called. Total Share:386
+2022.07.24, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: fe4d07f8-d76b-48ae-90a0-d73f86ca99af
+2022.07.24, 14:30:02 --> Scraping Called. Total Share:386
+2022.07.24, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 8d377b3b-c037-447c-9c5d-a91826bacd7a
+2022.07.25, 10:30:04 --> Scraping Called. Total Share:386
+2022.07.25, 10:30:05 --> Sms Send Success (To - 8801781400109). MessageId: 4e13dfc8-77da-4696-8708-b3a16acd3ce0
+2022.07.25, 11:30:02 --> Scraping Called. Total Share:386
+2022.07.25, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: f7a586b0-ee1a-4b38-977f-b6cb98cbd669
+2022.07.25, 12:30:02 --> Scraping Called. Total Share:386
+2022.07.25, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 9f89e5f7-1db4-4d03-97b0-aca08e33c8cb
+2022.07.25, 13:30:02 --> Scraping Called. Total Share:386
+2022.07.25, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: ea05280f-41cf-448b-85c6-e67d08df368e
+2022.07.25, 14:30:01 --> Scraping Called. Total Share:386
+2022.07.25, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 6e274f28-22d3-4688-98fa-24ba997cf89c
+2022.07.26, 10:30:02 --> Scraping Called. Total Share:386
+2022.07.26, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 6edbe1db-15a6-4382-be0f-7596f45e45e4
+2022.07.26, 11:30:02 --> Scraping Called. Total Share:386
+2022.07.26, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 5ebcb613-fc78-4a72-90e3-44e34179d448
+2022.07.26, 12:30:01 --> Scraping Called. Total Share:386
+2022.07.26, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 56570f99-cb46-4af9-b89f-37abcd7feb52
+2022.07.26, 13:30:02 --> Scraping Called. Total Share:386
+2022.07.26, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 44b733ef-1694-4cb0-99a8-6f889d92e0e5
+2022.07.26, 14:30:02 --> Scraping Called. Total Share:386
+2022.07.26, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 2c5d7119-1837-420b-8eb6-5d47eff0aa76
+2022.07.27, 10:30:02 --> Scraping Called. Total Share:386
+2022.07.27, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 96fc30bf-606a-45c9-8e80-e706d6330c19
+2022.07.27, 11:30:02 --> Scraping Called. Total Share:386
+2022.07.27, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 4f202cd1-7ca6-43b3-9d1a-fc1486577a6d
+2022.07.27, 12:30:01 --> Scraping Called. Total Share:386
+2022.07.27, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 73c06459-0861-4118-b910-7ad161a4f7bb
+2022.07.27, 13:30:02 --> Scraping Called. Total Share:386
+2022.07.27, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: f902b9b0-4649-46b7-9f2f-5dce2c205497
+2022.07.27, 14:30:01 --> Scraping Called. Total Share:386
+2022.07.27, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: e5529325-c7c6-470f-90cb-3afe595813a4
+2022.07.28, 10:30:02 --> Scraping Called. Total Share:386
+2022.07.28, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 01a41c18-a7da-4e58-9de1-ebc66a0ab98b
+2022.07.28, 11:30:02 --> Scraping Called. Total Share:386
+2022.07.28, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 6df16b3b-d740-4ff9-a317-d6e3e695f89d
+2022.07.28, 12:30:02 --> Scraping Called. Total Share:386
+2022.07.28, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 6c4ea634-cfdd-44a8-ba8f-acb05c92bf8b
+2022.07.28, 13:30:01 --> Scraping Called. Total Share:386
+2022.07.28, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 8f25c225-bb06-401e-b0b9-b5d4cee3fe7f
+2022.07.28, 14:30:02 --> Scraping Called. Total Share:386
+2022.07.28, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 03e95c4e-7e41-4c87-bc5a-e5adba8df8b2
+2022.07.31, 10:30:02 --> Scraping Called. Total Share:386
+2022.07.31, 10:30:04 --> Sms Send Success (To - 8801781400109). MessageId: b1e64d48-9d10-4773-aa94-2418d01b9987
+2022.07.31, 11:30:01 --> Scraping Called. Total Share:386
+2022.07.31, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 9383e171-e33d-433e-a7f3-d5a8db61e365
+2022.07.31, 12:30:02 --> Scraping Called. Total Share:386
+2022.07.31, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: adb05f1b-698e-4b1c-bb1d-292e8c96cb04
+2022.07.31, 13:30:02 --> Scraping Called. Total Share:386
+2022.07.31, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 95742d85-00fb-4f25-a56c-a3f6d08a6bfc
+2022.07.31, 14:30:01 --> Scraping Called. Total Share:386
+2022.07.31, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 58c60206-1ca1-4bd3-a04e-eb5c79f15c2d
+2022.08.01, 10:30:01 --> Scraping Called. Total Share:0
+2022.08.01, 10:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 69595d12-805e-48a7-a865-4e7acc468294
+2022.08.01, 11:30:01 --> Scraping Called. Total Share:386
+2022.08.01, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 8a890121-bcbd-47ec-990d-9079cf683f66
+2022.08.01, 12:30:01 --> Scraping Called. Total Share:386
+2022.08.01, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 4b54a730-e86c-426f-bc18-9249b53426a0
+2022.08.01, 13:30:02 --> Scraping Called. Total Share:386
+2022.08.01, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 5a26017d-b4e3-4665-8b94-c27e1a147d76
+2022.08.01, 14:30:01 --> Scraping Called. Total Share:386
+2022.08.01, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 567431c9-2319-4814-b80c-1281b2723edb
+2022.08.02, 10:30:02 --> Scraping Called. Total Share:386
+2022.08.02, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 261646a9-4747-4000-9274-25e04b268d04
+2022.08.02, 11:30:02 --> Scraping Called. Total Share:386
+2022.08.02, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 284589f4-556e-4ad9-a974-5e6c895c2fc9
+2022.08.02, 12:30:03 --> Scraping Called. Total Share:386
+2022.08.02, 12:30:04 --> Sms Send Success (To - 8801781400109). MessageId: b84dd3a9-6fbf-4788-b2a0-ea000b6887e3
+2022.08.02, 13:30:01 --> Scraping Called. Total Share:386
+2022.08.02, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: d9208dc7-1d6d-4b77-bd2b-8dd8536c3c6b
+2022.08.02, 14:30:02 --> Scraping Called. Total Share:386
+2022.08.02, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 156a543f-6255-40ef-95f4-fe816946ac74
+2022.08.03, 10:30:02 --> Scraping Called. Total Share:386
+2022.08.03, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 888c1e6a-fd85-45e3-9bc7-4d69e0327454
+2022.08.03, 11:30:02 --> Scraping Called. Total Share:386
+2022.08.03, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 90dc1cea-680c-4c8c-99de-abc90d154f10
+2022.08.03, 12:30:02 --> Scraping Called. Total Share:386
+2022.08.03, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: df8ade51-5a6c-4a19-97ec-5c7c297687cb
+2022.08.03, 13:30:02 --> Scraping Called. Total Share:386
+2022.08.03, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: fc171a6c-0a79-4e56-b210-0c6b1b35cb51
+2022.08.03, 14:30:01 --> Scraping Called. Total Share:386
+2022.08.03, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 906d2eae-a232-4bcf-bf97-e8fcdcf65ec1
+2022.08.04, 10:30:03 --> Scraping Called. Total Share:386
+2022.08.04, 10:30:04 --> Sms Send Success (To - 8801781400109). MessageId: b91454bb-0f40-47c6-b72d-d94917ff0fde
+2022.08.04, 11:30:02 --> Scraping Called. Total Share:386
+2022.08.04, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 4a93ac63-8ad0-4597-9af5-64975f82209d
+2022.08.04, 12:30:01 --> Scraping Called. Total Share:386
+2022.08.04, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: fb514074-4f8b-4805-b079-dbab8e50e0cf
+2022.08.04, 13:30:02 --> Scraping Called. Total Share:386
+2022.08.04, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 91ad9192-c880-483e-a9e9-ad41225ca332
+2022.08.04, 14:30:05 --> Scraping Called. Total Share:386
+2022.08.04, 14:30:06 --> Sms Send Success (To - 8801781400109). MessageId: 118c3715-f0ad-425e-8a70-da68c5d57d05
+2022.08.07, 10:30:02 --> Scraping Called. Total Share:386
+2022.08.07, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 2f70f780-050c-400f-aa0f-5880f35f0599
+2022.08.07, 11:30:01 --> Scraping Called. Total Share:386
+2022.08.07, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 530b184d-d10f-442f-ae5b-6fe26c6f102e
+2022.08.07, 12:30:01 --> Scraping Called. Total Share:386
+2022.08.07, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 09f82a0e-c365-4199-b077-85043e0a3eca
+2022.08.07, 13:30:01 --> Scraping Called. Total Share:386
+2022.08.07, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 88d90539-1a51-424c-8ba7-0ef950535823
+2022.08.07, 14:30:02 --> Scraping Called. Total Share:386
+2022.08.07, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 328200cb-062f-41c4-a102-b6d2534cb3a4
+2022.08.08, 10:30:02 --> Scraping Called. Total Share:386
+2022.08.08, 10:30:06 --> Sms Send Success (To - 8801781400109). MessageId: a52a5677-d561-43a3-a3cb-825fcf7d43e1
+2022.08.08, 11:30:01 --> Scraping Called. Total Share:386
+2022.08.08, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 983d8ea8-7948-4fe7-8a18-0dc4bf530712
+2022.08.08, 12:30:02 --> Scraping Called. Total Share:386
+2022.08.08, 12:30:03 --> Sms Send Success (To - 8801781400109). MessageId: d333983d-e7ab-43a6-a532-5695affe7609
+2022.08.08, 13:30:01 --> Scraping Called. Total Share:386
+2022.08.08, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 6034e00d-0110-4489-99b7-b88066eb60e1
+2022.08.08, 14:30:02 --> Scraping Called. Total Share:386
+2022.08.08, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: d574cace-f1bf-41e7-9db1-c7dbd3cc74dd
+2022.08.09, 10:30:02 --> Scraping Called. Total Share:386
+2022.08.09, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: d8ec525b-8d1f-4dc7-8fc1-643b4cafc425
+2022.08.09, 11:30:01 --> Scraping Called. Total Share:386
+2022.08.09, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: b51e0cd8-c020-4305-b42f-98b8d2f572db
+2022.08.09, 12:30:01 --> Scraping Called. Total Share:386
+2022.08.09, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: f90ca246-07ae-465e-9f8d-6d4212d221f1
+2022.08.09, 13:30:02 --> Scraping Called. Total Share:386
+2022.08.09, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: fb8d2a95-66f5-4f3d-b6a4-564bed5ea7ad
+2022.08.09, 14:30:01 --> Scraping Called. Total Share:386
+2022.08.09, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 950f7fa1-a124-4e35-9a0e-acb888a5e264
+2022.08.10, 10:30:02 --> Scraping Called. Total Share:386
+2022.08.10, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 12ec1f4e-e13c-4194-aa24-ff08e7e95cf2
+2022.08.10, 11:30:02 --> Scraping Called. Total Share:386
+2022.08.10, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 59c299e6-77e1-429b-a4a5-d212f51b1592
+2022.08.10, 12:30:01 --> Scraping Called. Total Share:386
+2022.08.10, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 78bc6ad2-7059-4aad-88ea-d170f99a1b96
+2022.08.10, 13:30:02 --> Scraping Called. Total Share:386
+2022.08.10, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: aff44205-f86b-4a7d-8319-b89db8cc48f4
+2022.08.10, 14:30:01 --> Scraping Called. Total Share:386
+2022.08.10, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 8a5c9876-ff5e-42b3-9319-23ea74ebece5
+2022.08.11, 10:30:02 --> Scraping Called. Total Share:386
+2022.08.11, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 7c4f2ff6-ede1-4697-9d75-20dd01c82d90
+2022.08.11, 11:30:01 --> Scraping Called. Total Share:386
+2022.08.11, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 229a8969-8e01-4d31-ae69-fa3b6ca4cb14
+2022.08.11, 12:30:01 --> Scraping Called. Total Share:386
+2022.08.11, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 945c90a9-0262-479e-b282-c1a082f03d08
+2022.08.11, 13:30:01 --> Scraping Called. Total Share:386
+2022.08.11, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 7f6ec40e-654b-48ef-89b8-e50865b6ee88
+2022.08.11, 14:30:02 --> Scraping Called. Total Share:386
+2022.08.11, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: feef85e4-603c-470a-b159-d5453287ecbc
+2022.08.14, 10:30:02 --> Scraping Called. Total Share:386
+2022.08.14, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 4ed567b7-fe5c-4857-b377-06c80d672e5b
+2022.08.14, 11:30:01 --> Scraping Called. Total Share:386
+2022.08.14, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: fe4e72b7-0731-4d92-81b7-3e26d978e0a4
+2022.08.14, 12:30:02 --> Scraping Called. Total Share:386
+2022.08.14, 12:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 98f55259-0029-4a56-9a26-82cbbec7c98e
+2022.08.14, 13:30:01 --> Scraping Called. Total Share:386
+2022.08.14, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 89506e9d-bdf1-4114-a869-74dd2291e086
+2022.08.14, 14:30:01 --> Scraping Called. Total Share:386
+2022.08.14, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 6f47892e-441e-41d6-bfee-2067cb1e7c23
+2022.08.15, 10:30:02 --> Scraping Called. Total Share:386
+2022.08.15, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 6db9519b-4e47-4d66-9a21-9dabb7f9367f
+2022.08.15, 11:30:01 --> Scraping Called. Total Share:386
+2022.08.15, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 188b2472-178b-435a-ab6d-5b1e9ae3b4dd
+2022.08.15, 12:30:01 --> Scraping Called. Total Share:386
+2022.08.15, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 8cee8780-0ad9-4d4e-8b36-cf0a9bf99bc7
+2022.08.15, 13:30:02 --> Scraping Called. Total Share:386
+2022.08.15, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: cebcd7e6-6351-4173-b73c-20d1aca97e13
+2022.08.15, 14:30:01 --> Scraping Called. Total Share:386
+2022.08.15, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: e738e0b4-3e9f-43be-b6c7-00338d57691f
+2022.08.16, 10:30:02 --> Scraping Called. Total Share:386
+2022.08.16, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: f5ee971c-5b90-4755-9361-9fee44ccae47
+2022.08.16, 11:30:01 --> Scraping Called. Total Share:386
+2022.08.16, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: d2cc3de7-c11f-412f-8aba-64f00130d90b
+2022.08.16, 12:30:02 --> Scraping Called. Total Share:386
+2022.08.16, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 772a2677-b084-4762-b09a-76f6f58560cd
+2022.08.16, 13:30:01 --> Scraping Called. Total Share:386
+2022.08.16, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 1224fd5f-1b45-4849-b914-c3edf82ee4c3
+2022.08.16, 14:30:02 --> Scraping Called. Total Share:0
+2022.08.16, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: ce055621-f251-482b-ba17-556ab9f564ec
+2022.08.17, 10:30:02 --> Scraping Called. Total Share:386
+2022.08.17, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 4eec1943-8fc0-4e76-a126-3ed6e5463beb
+2022.08.17, 11:30:02 --> Scraping Called. Total Share:386
+2022.08.17, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: df39c12c-5601-48e6-abf3-adba08ee5335
+2022.08.17, 12:30:01 --> Scraping Called. Total Share:386
+2022.08.17, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 2ec9b5e1-77ab-492c-bb87-2818bd3fadc2
+2022.08.17, 13:30:02 --> Scraping Called. Total Share:386
+2022.08.17, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 83728e7a-8c6f-4e51-b9b5-0685d12a15a4
+2022.08.17, 14:30:01 --> Scraping Called. Total Share:386
+2022.08.17, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: ad36a05a-8259-4dce-bd33-f7cee0387731
+2022.08.18, 10:30:02 --> Scraping Called. Total Share:386
+2022.08.18, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 7b2cf2eb-3ab9-4e2b-a505-4c7ad92bc767
+2022.08.18, 11:30:02 --> Scraping Called. Total Share:386
+2022.08.18, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: b6d636dd-906a-4e70-8aad-d35897cf24c4
+2022.08.18, 12:30:02 --> Scraping Called. Total Share:386
+2022.08.18, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: e1b2df5d-25b6-4545-9390-2b9551e9fec1
+2022.08.18, 13:30:01 --> Scraping Called. Total Share:386
+2022.08.18, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: ddabfa79-5878-4691-ad0a-80b057a30cf0
+2022.08.18, 14:30:02 --> Scraping Called. Total Share:386
+2022.08.18, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: e096bfea-daf5-42f4-af7b-b61daa3a3718
+2022.08.21, 10:30:02 --> Scraping Called. Total Share:386
+2022.08.21, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 4a731ff0-fd74-45eb-a9fd-5b50c7c7905f
+2022.08.21, 11:30:01 --> Scraping Called. Total Share:386
+2022.08.21, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 0e253bb2-391e-4980-ac77-9eecce0f0b4e
+2022.08.21, 12:30:01 --> Scraping Called. Total Share:386
+2022.08.21, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: e590fbba-f246-49d5-aa25-adf587305263
+2022.08.21, 13:30:01 --> Scraping Called. Total Share:386
+2022.08.21, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 37401347-abd6-456a-901f-4998cffb14e7
+2022.08.21, 14:30:02 --> Scraping Called. Total Share:386
+2022.08.21, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 12e8465a-530c-4bfd-afd7-486b4d303a88
+2022.08.22, 10:30:02 --> Scraping Called. Total Share:386
+2022.08.22, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: dc025421-5a53-477c-8726-b0e6c1b7dc91
+2022.08.22, 11:30:02 --> Scraping Called. Total Share:386
+2022.08.22, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 97e3627b-e542-42b8-a206-82c930c59bec
+2022.08.22, 12:30:01 --> Scraping Called. Total Share:386
+2022.08.22, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 902c284b-b32e-44c3-a465-4de1e8b62887
+2022.08.22, 13:30:01 --> Scraping Called. Total Share:386
+2022.08.22, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 4c0ac143-f65d-448f-9b84-e1c7f9933dad
+2022.08.22, 14:30:03 --> Scraping Called. Total Share:386
+2022.08.22, 14:30:04 --> Sms Send Success (To - 8801781400109). MessageId: 47b30d49-c7ac-4ad6-97f5-377467cd8893
+2022.08.23, 10:30:02 --> Scraping Called. Total Share:386
+2022.08.23, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: eeb8a5ea-ed5d-40ab-9c08-520a7296c975
+2022.08.23, 11:30:01 --> Scraping Called. Total Share:386
+2022.08.23, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: e7917aec-b6e6-4298-bdd6-25c4b8109d40
+2022.08.23, 12:30:01 --> Scraping Called. Total Share:386
+2022.08.23, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 8541e96a-a875-4ee6-84ee-5f6878ef313c
+2022.08.23, 13:30:02 --> Scraping Called. Total Share:386
+2022.08.23, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 4086cda9-b23f-4b9f-9860-0fe7ca1f90a9
+2022.08.23, 14:30:02 --> Scraping Called. Total Share:386
+2022.08.23, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 339cf3dc-8d9c-41f2-a827-6fbb8fbda338
+2022.08.24, 10:30:02 --> Scraping Called. Total Share:386
+2022.08.24, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 1bc78a09-754d-4343-9b70-07e9a5cd28f6
+2022.08.24, 11:30:01 --> Scraping Called. Total Share:386
+2022.08.24, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 77e7b94b-e27a-4df2-bc98-1570739755b1
+2022.08.24, 12:30:01 --> Scraping Called. Total Share:386
+2022.08.24, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: d8bfa74e-ac0d-41bc-894d-ffcf9f954cfd
+2022.08.24, 13:30:02 --> Scraping Called. Total Share:386
+2022.08.24, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 5deb2961-0059-4097-95a3-a749dc5fc76f
+2022.08.24, 14:30:01 --> Scraping Called. Total Share:386
+2022.08.24, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 585393b0-1749-4673-82f8-b57ae79d3b60
+2022.08.25, 10:30:02 --> Scraping Called. Total Share:386
+2022.08.25, 10:30:04 --> Sms Send Success (To - 8801781400109). MessageId: 9f63ea32-448f-40fa-ac6a-56d61e7d719b
+2022.08.25, 11:30:01 --> Scraping Called. Total Share:386
+2022.08.25, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: b5503c43-52b6-49ae-bf9f-7d7eff473a21
+2022.08.25, 12:30:01 --> Scraping Called. Total Share:386
+2022.08.25, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 1e3e96cc-48e5-447c-a028-0db2c09ba89a
+2022.08.25, 13:30:02 --> Scraping Called. Total Share:386
+2022.08.25, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 99c8fdf4-c3e9-4c69-a335-3cccd4c5c575
+2022.08.25, 14:30:01 --> Scraping Called. Total Share:386
+2022.08.25, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: baf48aa7-620f-4d26-8fbb-76516f1cce8f
+2022.08.28, 10:30:02 --> Scraping Called. Total Share:386
+2022.08.28, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 4e9890d7-d288-4b58-8970-9bac7fd8bc66
+2022.08.28, 11:30:41 --> Scraping Called. Total Share:386
+2022.08.28, 11:30:42 --> Sms Send Success (To - 8801781400109). MessageId: 9aca3888-de4f-4c7c-91ed-8960e46ecdc4
+2022.08.28, 12:30:03 --> Scraping Called. Total Share:386
+2022.08.28, 12:30:04 --> Sms Send Success (To - 8801781400109). MessageId: 535a88c3-32e6-441c-93ab-9a92237793ca
+2022.08.28, 13:30:01 --> Scraping Called. Total Share:386
+2022.08.28, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 49b7c4b6-90f9-4e41-9ff6-4d6043234fdc
+2022.08.28, 14:30:02 --> Scraping Called. Total Share:386
+2022.08.28, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 05d03a0a-f767-43eb-a1bb-9fe74f1bc64c
+2022.08.29, 10:30:02 --> Scraping Called. Total Share:386
+2022.08.29, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 2fbb29de-0b53-4e72-84e5-0c5880c9584d
+2022.08.29, 11:30:01 --> Scraping Called. Total Share:386
+2022.08.29, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: f4a3745c-8e36-42fe-b004-581b4a21ddab
+2022.08.29, 12:30:01 --> Scraping Called. Total Share:386
+2022.08.29, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: a4e87809-e2db-4d30-b1d2-bdbcff6e0d06
+2022.08.29, 13:30:02 --> Scraping Called. Total Share:386
+2022.08.29, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 043d3a07-ab8d-4490-88f3-0d58d35ebd73
+2022.08.29, 14:30:02 --> Scraping Called. Total Share:386
+2022.08.29, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: ac649b59-c415-4425-846c-c338290b4f50
+2022.08.30, 10:30:02 --> Scraping Called. Total Share:386
+2022.08.30, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: b100c50f-3915-42df-ba53-ab44d39a272e
+2022.08.30, 11:30:01 --> Scraping Called. Total Share:386
+2022.08.30, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: c2d9b913-1df3-499e-849d-63478a26ffe3
+2022.08.30, 12:30:02 --> Scraping Called. Total Share:386
+2022.08.30, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 07c5b3b7-0cf1-4661-830d-de35449efb36
+2022.08.30, 13:30:02 --> Scraping Called. Total Share:386
+2022.08.30, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 2ea3e404-a146-4d09-bd9e-70dbd8c96895
+2022.08.30, 14:30:02 --> Scraping Called. Total Share:386
+2022.08.30, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: dce30658-3f9b-4326-914b-0f5899a9d4d3
+2022.08.31, 10:30:02 --> Scraping Called. Total Share:386
+2022.08.31, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 67fffb9c-72a3-45ff-8edc-ce30c2635485
+2022.08.31, 11:30:01 --> Scraping Called. Total Share:386
+2022.08.31, 11:30:17 --> Sms Send Success (To - 8801781400109). MessageId: aa9b1d8f-c93b-4118-b122-dd2e7d69cebe
+2022.08.31, 12:30:01 --> Scraping Called. Total Share:386
+2022.08.31, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: f05cb374-bbff-4081-b3fd-4c2a8910c256
+2022.08.31, 13:30:02 --> Scraping Called. Total Share:386
+2022.08.31, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 087c24a4-be25-4d86-8cb3-d3be6076bc39
+2022.08.31, 14:30:01 --> Scraping Called. Total Share:386
+2022.08.31, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 3669b81d-bc3e-475b-bbb5-e05b952771b6
+2022.09.01, 10:30:02 --> Scraping Called. Total Share:386
+2022.09.01, 10:30:04 --> Sms Send Success (To - 8801781400109). MessageId: 8fe7134f-8a57-497e-a4e0-3452a06eb765
+2022.09.01, 11:30:02 --> Scraping Called. Total Share:386
+2022.09.01, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: bf53f7ce-d6b7-481f-b87c-3e6e4dcfa780
+2022.09.01, 12:30:01 --> Scraping Called. Total Share:386
+2022.09.01, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 19fb55f6-3007-4150-b6d1-de344e1a4cfa
+2022.09.01, 13:30:02 --> Scraping Called. Total Share:386
+2022.09.01, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 3a713486-cccb-4505-bdbe-aa1d6753eba3
+2022.09.01, 14:30:02 --> Scraping Called. Total Share:386
+2022.09.01, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 81fc3546-e654-4d31-afd5-d386ec96df40
+2022.09.04, 10:30:02 --> Scraping Called. Total Share:386
+2022.09.04, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: e45a3940-513c-4fcb-9141-f18946161aa7
+2022.09.04, 11:30:01 --> Scraping Called. Total Share:386
+2022.09.04, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 1dabef9e-4f32-4c8c-8ccf-e4f5a57b9f1a
+2022.09.04, 12:30:01 --> Scraping Called. Total Share:386
+2022.09.04, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 5a93f218-a9b0-46b4-84a2-7216cbbdcb0e
+2022.09.04, 13:30:03 --> Scraping Called. Total Share:386
+2022.09.04, 13:30:04 --> Sms Send Success (To - 8801781400109). MessageId: 0a66ca7c-d0b5-4eba-82dc-7891b17453fd
+2022.09.04, 14:30:01 --> Scraping Called. Total Share:386
+2022.09.04, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 34f7dcfc-86e8-49b1-835a-b95918a6e051
+2022.09.05, 10:30:03 --> Scraping Called. Total Share:386
+2022.09.05, 10:30:04 --> Sms Send Success (To - 8801781400109). MessageId: 1833181b-1a13-447f-b4ed-6854fae93e35
+2022.09.05, 11:30:01 --> Scraping Called. Total Share:386
+2022.09.05, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 42b96d36-4217-49c1-af45-33fcc4879eae
+2022.09.05, 12:30:02 --> Scraping Called. Total Share:386
+2022.09.05, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: ade612ed-3dcb-4ef5-a557-859ee8a3b5bf
+2022.09.05, 13:30:02 --> Scraping Called. Total Share:386
+2022.09.05, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: ea35e12c-8b97-42a0-9216-e97cb91549ce
+2022.09.05, 14:30:01 --> Scraping Called. Total Share:386
+2022.09.05, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 169f8e18-f1b4-402a-94c2-1fa8a21e8ffc
+2022.09.05, 20:44:30 --> Application Started
+2022.09.05, 20:45:42 --> Application Started
+2022.09.05, 21:10:00 --> Application Started
+2022.09.06, 10:30:02 --> Scraping Called. Total Share:386
+2022.09.06, 10:30:03 --> Sms Send Success (To - 8801799089893). MessageId: b4fa09e0-7f00-4446-a59f-a76666094787
+2022.09.06, 11:30:01 --> Scraping Called. Total Share:386
+2022.09.06, 11:30:02 --> Sms Send Success (To - 8801799089893). MessageId: 3dc3bfc3-c06a-468f-b4e3-58f8ede9016f
+2022.09.06, 12:30:02 --> Scraping Called. Total Share:386
+2022.09.06, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: dfa9e0de-99fb-4f02-8836-1c864c46cdae
+2022.09.06, 13:30:02 --> Scraping Called. Total Share:386
+2022.09.06, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: bf5fa58b-9219-4948-b995-eab4cf4efdb1
+2022.09.06, 14:30:02 --> Scraping Called. Total Share:386
+2022.09.06, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 9d03dc7e-2974-44ba-b624-4ea05ffd2e0c
+2022.09.07, 10:30:02 --> Scraping Called. Total Share:386
+2022.09.07, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: daec2e21-aef9-4f9e-bcb2-b2f0f2b46595
+2022.09.07, 11:30:02 --> Scraping Called. Total Share:386
+2022.09.07, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: a48f8545-15a6-46cf-a1bb-b683f49be71e
+2022.09.07, 12:30:02 --> Scraping Called. Total Share:386
+2022.09.07, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 872019fd-31b7-46d5-a74d-d4ac35797600
+2022.09.07, 13:30:02 --> Scraping Called. Total Share:386
+2022.09.07, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: b5057f39-cae8-4e7c-820d-175c4aaac0c6
+2022.09.07, 14:30:02 --> Scraping Called. Total Share:386
+2022.09.07, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: f5aa7062-1b48-4880-8023-f176488cc96e
+2022.09.08, 10:30:03 --> Scraping Called. Total Share:386
+2022.09.08, 10:30:04 --> Sms Send Success (To - 8801781400109). MessageId: d7dddb9b-3241-41a2-bcd7-e3d01492918b
+2022.09.08, 11:30:02 --> Scraping Called. Total Share:386
+2022.09.08, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: eff02348-9cc7-4e38-856b-b804eb23a535
+2022.09.08, 12:30:02 --> Scraping Called. Total Share:386
+2022.09.08, 12:30:05 --> Sms Send Success (To - 8801781400109). MessageId: e920961e-c671-406c-bdec-820ede310ae7
+2022.09.08, 13:30:02 --> Scraping Called. Total Share:386
+2022.09.08, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 8d628f62-6d3b-4bd6-a955-797950f629d9
+2022.09.08, 14:30:03 --> Scraping Called. Total Share:386
+2022.09.08, 14:30:04 --> Sms Send Success (To - 8801781400109). MessageId: 91b59a6a-da51-49f0-8d52-ef378f4fc3a7
+2022.09.11, 10:30:02 --> Scraping Called. Total Share:0
+2022.09.11, 10:30:04 --> Sms Send Success (To - 8801781400109). MessageId: 37b6265e-22db-4ecd-a60f-06bdaed15419
+2022.09.11, 11:30:02 --> Scraping Called. Total Share:386
+2022.09.11, 11:30:04 --> Sms Send Success (To - 8801781400109). MessageId: 22316259-4ad1-481a-95f8-eddbb5fef189
+2022.09.11, 12:30:02 --> Scraping Called. Total Share:386
+2022.09.11, 12:30:03 --> Sms Send Success (To - 8801781400109). MessageId: e1c8e579-05b0-49f4-af14-c505f1d220cd
+2022.09.11, 13:30:02 --> Scraping Called. Total Share:386
+2022.09.11, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 609c701e-71c3-41a0-87d0-3df412f26a09
+2022.09.11, 14:30:02 --> Scraping Called. Total Share:386
+2022.09.11, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 5990f0ef-7762-40f1-90bc-4dc3c99f2252
+2022.09.12, 10:30:03 --> Scraping Called. Total Share:386
+2022.09.12, 10:30:04 --> Sms Send Success (To - 8801781400109). MessageId: 6f3b1ff2-6abc-4160-b4ab-8efa8359da1d
+2022.09.12, 11:30:02 --> Scraping Called. Total Share:386
+2022.09.12, 11:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 1b498cf3-bee3-4247-9be8-02e23f4dd758
+2022.09.12, 12:30:02 --> Scraping Called. Total Share:386
+2022.09.12, 12:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 4398261e-d05a-47e2-a46c-56bce3a963bd
+2022.09.12, 13:30:03 --> Scraping Called. Total Share:386
+2022.09.12, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: d3012640-e4cc-4109-818a-7e54aad79a94
+2022.09.12, 14:30:02 --> Scraping Called. Total Share:386
+2022.09.12, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 122823a8-2d18-4a5d-b2c3-1a5d4ceb315c
+2022.09.13, 10:30:02 --> Scraping Called. Total Share:0
+2022.09.13, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 59f8101c-d231-4c57-a47b-8acd6a86ab3d
+2022.09.13, 11:30:02 --> Scraping Called. Total Share:386
+2022.09.13, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: f6bdb85e-b3c5-4c53-839e-9df056906d3d
+2022.09.13, 12:30:03 --> Scraping Called. Total Share:386
+2022.09.13, 12:30:04 --> Sms Send Success (To - 8801781400109). MessageId: 1f3404af-5a71-497d-aeff-99e96cc3e88c
+2022.09.13, 13:30:02 --> Scraping Called. Total Share:386
+2022.09.13, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 3457eb94-a8b3-4411-bdf9-09904a99a53b
+2022.09.13, 14:30:02 --> Scraping Called. Total Share:386
+2022.09.13, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 14331b09-36e6-46e0-95cb-526c3511fcf4
+2022.09.14, 10:30:02 --> Scraping Called. Total Share:386
+2022.09.14, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 02b7b8db-05e3-4882-b63d-618088c3f654
+2022.09.14, 11:30:03 --> Scraping Called. Total Share:386
+2022.09.14, 11:30:05 --> Sms Send Success (To - 8801781400109). MessageId: b06f4b3d-4d87-470b-a202-1d634a50a141
+2022.09.14, 12:30:02 --> Scraping Called. Total Share:386
+2022.09.14, 12:30:04 --> Sms Send Success (To - 8801781400109). MessageId: 55d2f9d5-5624-4d2a-96e5-f7bac002a3ad
+2022.09.14, 13:30:02 --> Scraping Called. Total Share:386
+2022.09.14, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 96a81778-1ced-4d81-a4ab-2dd2c2367bc1
+2022.09.14, 14:30:02 --> Scraping Called. Total Share:386
+2022.09.14, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 340d921c-7af0-417b-9e83-020c17490f07
+2022.09.15, 10:30:02 --> Scraping Called. Total Share:386
+2022.09.15, 10:30:03 --> Sms Send Failed (To - 8801781400109). Result:Error: certificate has expired
+2022.09.15, 11:30:02 --> Scraping Called. Total Share:386
+2022.09.15, 11:30:03 --> Sms Send Failed (To - 8801781400109). Result:Error: certificate has expired
+2022.09.15, 12:30:02 --> Scraping Called. Total Share:386
+2022.09.15, 12:30:03 --> Sms Send Failed (To - 8801781400109). Result:Error: certificate has expired
+2022.09.15, 13:30:02 --> Scraping Called. Total Share:386
+2022.09.15, 13:30:02 --> Sms Send Failed (To - 8801781400109). Result:Error: certificate has expired
+2022.09.15, 14:30:02 --> Scraping Called. Total Share:386
+2022.09.15, 14:30:02 --> Sms Send Failed (To - 8801781400109). Result:Error: certificate has expired
+2022.09.18, 10:30:02 --> Scraping Called. Total Share:386
+2022.09.18, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 32294c58-8010-458a-b0e0-6137acff6219
+2022.09.18, 11:30:01 --> Scraping Called. Total Share:386
+2022.09.18, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 712eef3d-66af-439e-8b6b-72990bf1c54b
+2022.09.18, 12:30:01 --> Scraping Called. Total Share:386
+2022.09.18, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: f011b390-11a0-4d94-b0f0-c5ac43fc02b0
+2022.09.18, 13:30:02 --> Scraping Called. Total Share:386
+2022.09.18, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 704c9bd2-7a08-4e1e-9642-4156bc691b81
+2022.09.18, 14:30:02 --> Scraping Called. Total Share:386
+2022.09.18, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 6cd3e0d4-9242-4b45-aa5a-91c61d3fc6c3
+2022.09.19, 10:30:03 --> Scraping Called. Total Share:386
+2022.09.19, 10:30:04 --> Sms Send Success (To - 8801781400109). MessageId: bbe4590e-d1ca-4eff-a569-ee3abb4cba9f
+2022.09.19, 11:30:01 --> Scraping Called. Total Share:386
+2022.09.19, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: d87a6d03-0224-47ab-8a35-5a2ff29029ad
+2022.09.19, 12:30:04 --> Scraping Called. Total Share:386
+2022.09.19, 12:30:05 --> Sms Send Success (To - 8801781400109). MessageId: 929d5136-1634-480f-b0b9-8b2f52999b12
+2022.09.19, 13:30:01 --> Scraping Called. Total Share:386
+2022.09.19, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: c807a032-a533-4b42-8970-90151b2595fa
+2022.09.19, 14:30:02 --> Scraping Called. Total Share:386
+2022.09.19, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 428b5a09-0d03-48ed-ac23-f5b73974387d
+2022.09.20, 10:30:02 --> Scraping Called. Total Share:386
+2022.09.20, 10:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 947f965b-3ef9-48dc-8f17-3406669492bf
+2022.09.20, 11:30:01 --> Scraping Called. Total Share:386
+2022.09.20, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: df0a6668-addc-4b96-b987-5b3d24360387
+2022.09.20, 12:30:01 --> Scraping Called. Total Share:386
+2022.09.20, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 27a99d43-11bf-4456-94fa-1f421868e8a0
+2022.09.20, 13:30:02 --> Scraping Called. Total Share:386
+2022.09.20, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 03e20427-688f-406c-8ef3-eae06e448490
+2022.09.20, 14:30:01 --> Scraping Called. Total Share:386
+2022.09.20, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: d04951a5-d5d5-4b65-a19e-3fa5456de209
+2022.09.21, 10:30:02 --> Scraping Called. Total Share:387
+2022.09.21, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: c2db15f7-3326-4901-9617-66a2a0e7bfdf
+2022.09.21, 11:30:01 --> Scraping Called. Total Share:387
+2022.09.21, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 9a1031a1-1d14-4b9e-bd53-d82119f29227
+2022.09.21, 12:30:01 --> Scraping Called. Total Share:387
+2022.09.21, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 0537cfd7-5839-4a86-a07c-55567ca89de5
+2022.09.21, 13:30:02 --> Scraping Called. Total Share:387
+2022.09.21, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 055bd1fc-6567-492d-b086-33747111ce69
+2022.09.21, 14:30:01 --> Scraping Called. Total Share:387
+2022.09.21, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 6d7dd4f0-5a00-4817-8d5d-d69d8a964bee
+2022.09.22, 10:30:02 --> Scraping Called. Total Share:387
+2022.09.22, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: e5ac7e65-badf-4537-bca6-ea8183dd0d87
+2022.09.22, 11:30:01 --> Scraping Called. Total Share:387
+2022.09.22, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 80a309f7-c0c5-4ca3-9986-ec28ca6ef1e2
+2022.09.22, 12:30:01 --> Scraping Called. Total Share:387
+2022.09.22, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: ccde2bc7-8a9f-4a38-9d2f-144b51c6f367
+2022.09.22, 13:30:01 --> Scraping Called. Total Share:0
+2022.09.22, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 5328ecf2-4ec6-47ba-b2fa-8cca4fa5d77e
+2022.09.22, 14:30:01 --> Scraping Called. Total Share:387
+2022.09.22, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 39de83ad-8259-43da-a2ad-d73c5fd57d9c
+2022.09.25, 10:30:02 --> Scraping Called. Total Share:387
+2022.09.25, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: b73ccd75-bacb-40ea-a5b6-efb17a04456e
+2022.09.25, 11:30:01 --> Scraping Called. Total Share:387
+2022.09.25, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 175ec731-ac68-4da7-bfa3-d31be876979c
+2022.09.25, 12:30:01 --> Scraping Called. Total Share:387
+2022.09.25, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 0cd726cb-1dfd-4d60-8c99-8fe0612287bb
+2022.09.25, 13:30:02 --> Scraping Called. Total Share:387
+2022.09.25, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: a2a2a0cb-0f84-4b82-81d5-2cf51d704ed2
+2022.09.25, 14:30:01 --> Scraping Called. Total Share:387
+2022.09.25, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: fb2bba4d-c204-445a-bb3f-de0d5d4b9a19
+2022.09.26, 10:30:02 --> Scraping Called. Total Share:387
+2022.09.26, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 1f6f8859-2547-496f-a1d7-301dc7bd8ebb
+2022.09.26, 11:30:01 --> Scraping Called. Total Share:387
+2022.09.26, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: decb86dd-0f3b-43c9-9ba9-1a5169ef7b20
+2022.09.26, 12:30:02 --> Scraping Called. Total Share:387
+2022.09.26, 12:30:03 --> Sms Send Success (To - 8801781400109). MessageId: b5060b03-8453-41d8-a7b1-bd19d5b70967
+2022.09.26, 13:30:02 --> Scraping Called. Total Share:387
+2022.09.26, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 59e96928-673c-48b3-8be3-d160247f392e
+2022.09.26, 14:30:02 --> Scraping Called. Total Share:387
+2022.09.26, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 3ae8fac6-3e71-494d-b9d7-f217c7a85e65
+2022.09.27, 10:30:02 --> Scraping Called. Total Share:387
+2022.09.27, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 09be2b79-02f6-496d-979a-c664326bc9a3
+2022.09.27, 11:30:01 --> Scraping Called. Total Share:387
+2022.09.27, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: a8ab74a4-9b4f-422e-bdc9-1e41326aa37b
+2022.09.27, 12:30:01 --> Scraping Called. Total Share:387
+2022.09.27, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 6e079ed3-5910-44b3-9825-6b70995945d9
+2022.09.27, 13:30:01 --> Scraping Called. Total Share:387
+2022.09.27, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: bbb031e7-8315-4276-8241-10a72e1ff8d9
+2022.09.27, 14:30:02 --> Scraping Called. Total Share:387
+2022.09.27, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: b04cae5a-d97d-4d00-b303-816ea54fdbee
+2022.09.28, 10:30:02 --> Scraping Called. Total Share:0
+2022.09.28, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 722a95b3-681b-4a33-8a9c-d324eee11126
+2022.09.28, 11:30:01 --> Scraping Called. Total Share:387
+2022.09.28, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: f44a68ea-ec86-41e3-8129-c3a973a381fc
+2022.09.28, 12:30:02 --> Scraping Called. Total Share:387
+2022.09.28, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 8b05fbb8-58a2-4ebf-a2b8-2533b8f0121e
+2022.09.28, 13:30:01 --> Scraping Called. Total Share:387
+2022.09.28, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 41aa4dbb-b07a-41ce-839a-53f23e188a43
+2022.09.28, 14:30:02 --> Scraping Called. Total Share:0
+2022.09.28, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 378f3ecb-3292-4728-bebd-f200ed3b1ecf
+2022.09.29, 10:30:02 --> Scraping Called. Total Share:387
+2022.09.29, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: bbd0d68d-999a-43c5-adb6-a3277d8fa7e2
+2022.09.29, 11:30:01 --> Scraping Called. Total Share:387
+2022.09.29, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: e15f322a-2ed8-4f48-b7ed-3c84b22166a8
+2022.09.29, 12:30:01 --> Scraping Called. Total Share:387
+2022.09.29, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: e44159fc-5f21-41a0-98cf-34e98d05df71
+2022.09.29, 13:30:02 --> Scraping Called. Total Share:387
+2022.09.29, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 07e2b49c-5058-47d6-881b-7b17826246b5
+2022.09.29, 14:30:01 --> Scraping Called. Total Share:387
+2022.09.29, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 4db66079-4bc0-43c2-9ae1-cb0bbfcaf550
+2022.10.02, 10:30:02 --> Scraping Called. Total Share:387
+2022.10.02, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 658bcf8e-69f2-49a2-bfcc-bac6264a1c6f
+2022.10.02, 11:30:01 --> Scraping Called. Total Share:387
+2022.10.02, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 64687577-c5df-4197-8ace-cf0ac0315e4d
+2022.10.02, 12:30:01 --> Scraping Called. Total Share:387
+2022.10.02, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: d7024852-a16f-4f1e-96d9-3cc25f90b536
+2022.10.02, 13:30:02 --> Scraping Called. Total Share:387
+2022.10.02, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 61d32639-09ed-4209-aecc-c214bc51681d
+2022.10.02, 14:30:01 --> Scraping Called. Total Share:387
+2022.10.02, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 4494a538-7269-46bc-9552-7c12c60cbe00
+2022.10.03, 10:30:03 --> Scraping Called. Total Share:387
+2022.10.03, 10:30:04 --> Sms Send Success (To - 8801781400109). MessageId: 8385a4c6-eeb5-40de-9ce6-01e45674284d
+2022.10.03, 11:30:01 --> Scraping Called. Total Share:387
+2022.10.03, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: aae07935-1e32-4db0-919c-3b7266d52004
+2022.10.03, 12:30:01 --> Scraping Called. Total Share:387
+2022.10.03, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: aa2289ba-986d-43f2-8336-b348cb92ae26
+2022.10.03, 13:30:02 --> Scraping Called. Total Share:387
+2022.10.03, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: bdb2e07d-d236-443a-9b80-1e277bf64934
+2022.10.03, 14:30:01 --> Scraping Called. Total Share:387
+2022.10.03, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: d737637e-cf94-41b5-a4b4-0bad72aba4ce
+2022.10.04, 10:30:02 --> Scraping Called. Total Share:387
+2022.10.04, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 341e98eb-5b27-447e-a240-98c4e65667bc
+2022.10.04, 11:30:01 --> Scraping Called. Total Share:387
+2022.10.04, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 24247b14-9496-4d6e-833d-e268a599439f
+2022.10.04, 12:30:01 --> Scraping Called. Total Share:387
+2022.10.04, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: cb1acfe9-30b3-46ad-a1e0-9f8b68fda8e4
+2022.10.04, 13:30:02 --> Scraping Called. Total Share:387
+2022.10.04, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: c888f8e4-4ef6-4398-ba23-56c929fbdd5a
+2022.10.04, 14:30:01 --> Scraping Called. Total Share:387
+2022.10.04, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 279fb498-0bf1-4681-89b1-d4066adf0e96
+2022.10.05, 10:30:02 --> Scraping Called. Total Share:387
+2022.10.05, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: b6dd0981-cefe-4c74-a448-c65611d169be
+2022.10.05, 11:30:01 --> Scraping Called. Total Share:387
+2022.10.05, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 3fb8f41e-be79-46ab-b102-699cc2809635
+2022.10.05, 12:30:01 --> Scraping Called. Total Share:387
+2022.10.05, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 47f58676-8606-44eb-90a9-f8a223e2489f
+2022.10.05, 13:30:02 --> Scraping Called. Total Share:387
+2022.10.05, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: aced589c-4458-4919-a475-57edc8c92ae6
+2022.10.05, 14:30:01 --> Scraping Called. Total Share:387
+2022.10.05, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 41b0ec98-4d92-4113-a39a-f09da1cdaf1e
+2022.10.06, 10:30:02 --> Scraping Called. Total Share:387
+2022.10.06, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: aa9253f3-585d-473b-a6bb-49372069efbc
+2022.10.06, 11:30:01 --> Scraping Called. Total Share:387
+2022.10.06, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: f987b83a-7ab0-4b4c-bdb1-553807253695
+2022.10.06, 12:30:01 --> Scraping Called. Total Share:387
+2022.10.06, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 00b8bc9c-73cb-4c65-ac18-b51397f6863d
+2022.10.06, 13:30:01 --> Scraping Called. Total Share:387
+2022.10.06, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 5773f4a2-8558-418c-a05d-118a7dd2c511
+2022.10.06, 14:30:02 --> Scraping Called. Total Share:387
+2022.10.06, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: fe1e9a7f-0e88-498f-9ed6-58c741a53d6c
+2022.10.09, 10:30:02 --> Scraping Called. Total Share:0
+2022.10.09, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: a0097c46-f01c-4b20-b0d4-5fb3de512959
+2022.10.09, 11:30:08 --> Scraping Called. Total Share:387
+2022.10.09, 11:30:09 --> Sms Send Success (To - 8801781400109). MessageId: 3d4e1360-d494-420e-b8ed-751fe015fd0f
+2022.10.09, 12:30:01 --> Scraping Called. Total Share:387
+2022.10.09, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 9250a8cf-2d4a-48bc-878f-dbf645eeec2d
+2022.10.09, 13:30:01 --> Scraping Called. Total Share:387
+2022.10.09, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: f608048c-2541-4753-8028-0954dce6bcd9
+2022.10.09, 14:30:03 --> Scraping Called. Total Share:387
+2022.10.09, 14:30:04 --> Sms Send Success (To - 8801781400109). MessageId: 87ecedc5-8c46-40da-87aa-ebd9a21e95d6
+2022.10.10, 10:30:02 --> Scraping Called. Total Share:387
+2022.10.10, 10:30:33 --> Sms Send Failed (To - 8801781400109). Result:AxiosError: Request failed with status code 522
+2022.10.10, 11:30:01 --> Scraping Called. Total Share:387
+2022.10.10, 11:30:03 --> Sms Send Success (To - 8801781400109). MessageId: bb648137-afb6-4e9a-82b1-35bf1ad95ad2
+2022.10.10, 12:30:01 --> Scraping Called. Total Share:387
+2022.10.10, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: d4d940b6-5f46-4bd2-a1af-39652b8d1ddf
+2022.10.10, 13:30:02 --> Scraping Called. Total Share:387
+2022.10.10, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: f0bca146-2e3e-42eb-aff2-334e847cb677
+2022.10.10, 14:30:01 --> Scraping Called. Total Share:387
+2022.10.10, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 8b8517b7-d1f9-43a5-8eb5-b06cb72aa09c
+2022.10.11, 10:30:02 --> Scraping Called. Total Share:0
+2022.10.11, 10:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 798332a4-844e-43bc-a33d-e6e2c41c8713
+2022.10.11, 11:30:01 --> Scraping Called. Total Share:387
+2022.10.11, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 3c0293fb-ec76-4f7a-b763-3b903ce09136
+2022.10.11, 12:30:01 --> Scraping Called. Total Share:387
+2022.10.11, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: d4b67630-8968-4bc9-ad63-b8178cdc6187
+2022.10.11, 13:30:01 --> Scraping Called. Total Share:387
+2022.10.11, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: f68f573d-d229-4e1e-850c-99e515571d8c
+2022.10.11, 14:30:01 --> Scraping Called. Total Share:387
+2022.10.11, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 393dafc7-4b0b-4f4f-a64a-042ae0562ab5
+2022.10.12, 10:30:01 --> Scraping Called. Total Share:0
+2022.10.12, 10:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 2a9460fc-c54f-494b-8f15-fd3b7b5c01f7
+2022.10.12, 11:30:01 --> Scraping Called. Total Share:387
+2022.10.12, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 87c8a5a2-b911-4903-bdc3-faf4b15c691c
+2022.10.12, 12:30:01 --> Scraping Called. Total Share:387
+2022.10.12, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 59fb174f-4f5c-434c-9ff9-12c99e555d32
+2022.10.12, 13:30:01 --> Scraping Called. Total Share:387
+2022.10.12, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 4f938562-c2a6-4ffa-b178-369c744c6843
+2022.10.12, 14:30:02 --> Scraping Called. Total Share:387
+2022.10.12, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: f613a511-0dd6-42ff-a4ba-72282017f9c3
+2022.10.13, 10:30:02 --> Scraping Called. Total Share:387
+2022.10.13, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 5ffd8cc8-cdf0-4bf9-80dc-890b1216aa67
+2022.10.13, 11:30:01 --> Scraping Called. Total Share:387
+2022.10.13, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 4dbe2193-4c80-48e5-bc30-e0d2003d8f40
+2022.10.13, 12:30:01 --> Scraping Called. Total Share:387
+2022.10.13, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 74d30db9-57b5-4b81-8bad-2430e6b85e92
+2022.10.13, 13:30:02 --> Scraping Called. Total Share:387
+2022.10.13, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: a13d2dd3-cbe2-4208-acb7-7ff21020c30b
+2022.10.13, 14:30:01 --> Scraping Called. Total Share:387
+2022.10.13, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 26b9fa03-ac71-4e71-9c0f-0068c6e43209
+2022.10.16, 10:30:02 --> Scraping Called. Total Share:387
+2022.10.16, 10:30:33 --> Sms Send Failed (To - 8801781400109). Result:AxiosError: Request failed with status code 522
+2022.10.16, 11:30:01 --> Scraping Called. Total Share:387
+2022.10.16, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 9a2a432b-1940-4816-9202-d5fa4b7b4c17
+2022.10.16, 12:30:01 --> Scraping Called. Total Share:387
+2022.10.16, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: cb9ec7ea-f7cf-43dd-b77f-d4129b27a9cf
+2022.10.16, 13:30:02 --> Scraping Called. Total Share:387
+2022.10.16, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 9eb07999-31f5-40df-84dc-fa13ef3f3d08
+2022.10.16, 14:30:01 --> Scraping Called. Total Share:387
+2022.10.16, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: d35945da-6aa6-4419-bef2-38b6409e936c
+2022.10.17, 10:30:03 --> Scraping Called. Total Share:387
+2022.10.17, 10:30:04 --> Sms Send Success (To - 8801781400109). MessageId: 98a8e6cc-0834-4024-a6c5-7c2df468345f
+2022.10.17, 11:30:01 --> Scraping Called. Total Share:387
+2022.10.17, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 7fc085ae-4683-4bb2-abc7-a54dd335fbd9
+2022.10.17, 12:30:01 --> Scraping Called. Total Share:387
+2022.10.17, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: fa801bfc-afdb-469c-bd0f-bf6282543cb2
+2022.10.17, 13:30:01 --> Scraping Called. Total Share:387
+2022.10.17, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 4f28427b-018f-46a8-81f2-9a2439a17400
+2022.10.17, 14:30:02 --> Scraping Called. Total Share:387
+2022.10.17, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: dd2f3139-4662-4353-a85a-5d64d1a0230b
+2022.10.18, 10:30:02 --> Scraping Called. Total Share:388
+2022.10.18, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 01eeb680-ccfe-44bc-bbb0-36c862a3db62
+2022.10.18, 11:30:01 --> Scraping Called. Total Share:388
+2022.10.18, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 24074cb3-f677-4f94-b760-de0a897c8fec
+2022.10.18, 12:30:01 --> Scraping Called. Total Share:388
+2022.10.18, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: fe3bcc4d-9be3-4b6a-be83-3fcfc4259263
+2022.10.18, 13:30:01 --> Scraping Called. Total Share:388
+2022.10.18, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 1b157fb7-58cb-48f9-b8b4-d7edcfe2b795
+2022.10.18, 14:30:02 --> Scraping Called. Total Share:0
+2022.10.18, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 607c2d22-80d8-4aa9-8fff-cc3be0efdb62
+2022.10.19, 10:30:02 --> Scraping Called. Total Share:0
+2022.10.19, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 1b760c35-de1b-4a27-bd12-eb16b0101eac
+2022.10.19, 11:30:03 --> Scraping Called. Total Share:388
+2022.10.19, 11:30:04 --> Sms Send Success (To - 8801781400109). MessageId: c9744a4f-bb17-4d11-8b44-b2a89ac6f3dc
+2022.10.19, 12:30:07 --> Scraping Called. Total Share:388
+2022.10.19, 12:30:08 --> Sms Send Success (To - 8801781400109). MessageId: f69d80d2-88dc-4684-bdba-6f29b6eca5e2
+2022.10.19, 13:30:13 --> Scraping Called. Total Share:388
+2022.10.19, 13:30:14 --> Sms Send Success (To - 8801781400109). MessageId: 79535a53-618e-4855-9023-20ee7f745929
+2022.10.19, 14:30:04 --> Scraping Called. Total Share:0
+2022.10.19, 14:30:04 --> Sms Send Success (To - 8801781400109). MessageId: 22c06d86-207e-478b-9042-afc7a9233491
+2022.10.20, 10:30:02 --> Scraping Called. Total Share:0
+2022.10.20, 10:30:02 --> Sms Send Success (To - 8801781400109). MessageId: c1f69c89-8f4c-4c51-aa63-2fd78968e9ba
+2022.10.20, 11:30:02 --> Scraping Called. Total Share:388
+2022.10.20, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 308233d6-1652-4041-9b35-9b1bf2590ace
+2022.10.20, 12:30:02 --> Scraping Called. Total Share:388
+2022.10.20, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: cbf5182a-34da-4b26-8874-b0b9055b1852
+2022.10.20, 13:30:02 --> Scraping Called. Total Share:388
+2022.10.20, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 12a0cde8-d8e6-442c-bf8d-a0369dd03484
+2022.10.20, 14:30:02 --> Scraping Called. Total Share:388
+2022.10.20, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 73e5e4ff-5f6c-426e-bfe3-6a14923f7f67
+2022.10.23, 10:30:02 --> Scraping Called. Total Share:388
+2022.10.23, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: cd709b07-2e35-40ab-9dde-0b5cf78492da
+2022.10.23, 11:30:01 --> Scraping Called. Total Share:388
+2022.10.23, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 90b8d4ed-a5c5-46c4-83ee-86fbee3e1503
+2022.10.23, 12:30:02 --> Scraping Called. Total Share:388
+2022.10.23, 12:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 95348c62-b014-42cb-abf8-29792f5c300e
+2022.10.23, 13:30:02 --> Scraping Called. Total Share:388
+2022.10.23, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 45877fba-d3b2-4f00-b8c0-84280f76bce4
+2022.10.23, 14:30:01 --> Scraping Called. Total Share:388
+2022.10.23, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: f575b4c1-ad3e-4e8d-94e5-aa65a74124c8
+2022.10.24, 10:30:02 --> Scraping Called. Total Share:0
+2022.10.24, 10:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 4503f3a2-d7fb-4452-864e-89f46060a9a2
+2022.10.24, 11:30:01 --> Scraping Called. Total Share:388
+2022.10.24, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 1ef07c20-9acb-4264-9c1a-d34d27e9fabe
+2022.10.24, 12:30:01 --> Scraping Called. Total Share:388
+2022.10.24, 12:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 09f35774-178d-40f7-abb9-79f7db720abe
+2022.10.24, 13:30:03 --> Scraping Called. Total Share:388
+2022.10.24, 13:30:04 --> Sms Send Success (To - 8801781400109). MessageId: 6fbf69a7-4693-4648-a441-e8de4c79885a
+2022.10.24, 14:30:02 --> Scraping Called. Total Share:388
+2022.10.24, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 6fdce8d2-d3be-44a9-8240-477827642b39
+2022.10.25, 10:30:02 --> Scraping Called. Total Share:388
+2022.10.25, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: ce2b5db4-be09-4548-8262-50b069317386
+2022.10.25, 11:30:01 --> Scraping Called. Total Share:388
+2022.10.25, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: d0eebfdd-646d-4e37-a029-c31b9b4294be
+2022.10.25, 12:30:01 --> Scraping Called. Total Share:388
+2022.10.25, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 92272920-e357-4440-a865-0fc3ece5a448
+2022.10.25, 13:30:02 --> Scraping Called. Total Share:388
+2022.10.25, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: f63927dc-813e-4097-b673-e70077fdef2d
+2022.10.25, 14:30:01 --> Scraping Called. Total Share:388
+2022.10.25, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 2a385ee5-9aae-4481-8d0e-8aa926cc2cc0
+2022.10.26, 10:30:02 --> Scraping Called. Total Share:388
+2022.10.26, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 25ab74a4-4c35-4512-985d-3db51d2c23f9
+2022.10.26, 11:30:01 --> Scraping Called. Total Share:388
+2022.10.26, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 8aad0609-587f-4146-bf6a-4d2715e81240
+2022.10.26, 12:30:02 --> Scraping Called. Total Share:388
+2022.10.26, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 7f27c141-0e5b-4d06-b55e-8d1cb487bc76
+2022.10.26, 13:30:02 --> Scraping Called. Total Share:388
+2022.10.26, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: d1217a47-40ee-4998-8097-91f2d2452e74
+2022.10.26, 14:30:01 --> Scraping Called. Total Share:388
+2022.10.26, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 9c4d12f9-9df0-4433-86e1-b28749d620fa
+2022.10.27, 10:30:02 --> Scraping Called. Total Share:388
+2022.10.27, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: c6365bad-0cd7-4e0e-b54e-4cecfadaebd0
+2022.10.27, 11:30:01 --> Scraping Called. Total Share:388
+2022.10.27, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 743baa47-a8a0-4860-b5a5-5bde39110998
+2022.10.27, 12:30:01 --> Scraping Called. Total Share:388
+2022.10.27, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: bdc5f0c8-8460-4ad7-83fd-2e65fc265db9
+2022.10.27, 13:30:02 --> Scraping Called. Total Share:388
+2022.10.27, 13:30:05 --> Sms Send Success (To - 8801781400109). MessageId: 344d8db3-72bc-4261-b256-7703e6fa3ae5
+2022.10.27, 14:30:02 --> Scraping Called. Total Share:388
+2022.10.27, 14:30:07 --> Sms Send Failed (To - 8801781400109). Result:AxiosError: Request failed with status code 502
+2022.10.30, 10:30:03 --> Scraping Called. Total Share:389
+2022.10.30, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 7fc96128-d37d-46c9-b73a-857d95de5d36
+2022.10.30, 11:30:01 --> Scraping Called. Total Share:389
+2022.10.30, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 4773ba49-75c5-4fc8-87ee-9729b6d0eeca
+2022.10.30, 12:30:01 --> Scraping Called. Total Share:389
+2022.10.30, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: fd1e17d3-6088-4625-9036-77ac5610bc70
+2022.10.30, 13:30:02 --> Scraping Called. Total Share:389
+2022.10.30, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 02a631c7-46c8-4fe0-af95-fc9430c140d2
+2022.10.30, 14:30:01 --> Scraping Called. Total Share:389
+2022.10.30, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 23fdf9b0-0f48-4950-ba12-49acbbc40dc8
+2022.10.31, 10:30:02 --> Scraping Called. Total Share:389
+2022.10.31, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 75c8e43f-a083-46ec-89c0-817bd324f294
+2022.10.31, 11:30:01 --> Scraping Called. Total Share:389
+2022.10.31, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: e125bfe3-7c5a-4d8e-be8c-b88854d671e3
+2022.10.31, 12:30:01 --> Scraping Called. Total Share:389
+2022.10.31, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: d1b222ce-fdf6-4d18-80d0-590939fce1d6
+2022.10.31, 13:30:02 --> Scraping Called. Total Share:389
+2022.10.31, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 0dde31c2-7d1c-4917-9e1b-10190e6e8f42
+2022.10.31, 14:30:01 --> Scraping Called. Total Share:389
+2022.10.31, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 34085bb4-9a3a-4cc1-badd-ca6bf16b01e9
+2022.11.01, 10:28:44 --> Application Started
+2022.11.01, 10:30:07 --> Scraping Called. Total Share:389
+2022.11.01, 10:30:08 --> Sms Send Success (To - 8801799089893). MessageId: 38462dba-679c-47b3-8617-718c481a4e51
+2022.11.01, 11:30:03 --> Scraping Called. Total Share:389
+2022.11.01, 11:30:04 --> Sms Send Success (To - 8801781400109). MessageId: 6236c7b6-2112-4a0c-908f-167b7e3a9794
+2022.11.01, 12:30:02 --> Scraping Called. Total Share:389
+2022.11.01, 12:30:03 --> Sms Send Success (To - 8801781400109). MessageId: f009b327-e3c3-42fb-9509-6a2649946719
+2022.11.01, 13:30:03 --> Scraping Called. Total Share:389
+2022.11.01, 13:30:04 --> Sms Send Success (To - 8801781400109). MessageId: c48de58a-4d87-4db1-9d2d-d350bd9b432e
+2022.11.01, 14:30:01 --> Scraping Called. Total Share:389
+2022.11.01, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: cd8d6b7b-cd54-49e6-88f3-87654610cba1
+2022.11.02, 10:30:03 --> Scraping Called. Total Share:389
+2022.11.02, 10:30:04 --> Sms Send Success (To - 8801781400109). MessageId: 8b12a858-039b-4ed3-990e-2107bd10a45d
+2022.11.02, 11:30:01 --> Scraping Called. Total Share:389
+2022.11.02, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: e893ece4-26ab-4651-93ff-142463703617
+2022.11.02, 12:30:01 --> Scraping Called. Total Share:389
+2022.11.02, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 7dc79ef5-e9ed-43da-a369-65b19c6b0874
+2022.11.02, 13:30:02 --> Scraping Called. Total Share:0
+2022.11.02, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 83b38b63-44e7-4693-8ff7-5bae6c44c81c
+2022.11.02, 14:30:01 --> Scraping Called. Total Share:389
+2022.11.02, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 2977b26a-5dde-412d-99ae-b8aa2ac4998a
+2022.11.03, 10:30:02 --> Scraping Called. Total Share:389
+2022.11.03, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 327b51e6-80ae-40e2-bd97-c3674e82007f
+2022.11.03, 11:30:01 --> Scraping Called. Total Share:389
+2022.11.03, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: ebbf86d2-2fe7-40e0-8cce-dbf8638b277e
+2022.11.03, 12:30:01 --> Scraping Called. Total Share:389
+2022.11.03, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 5bc6d9dc-65fd-41e9-807e-435d526bf074
+2022.11.03, 13:30:01 --> Scraping Called. Total Share:389
+2022.11.03, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: f2295861-42da-4542-8a9e-f007ebd2f940
+2022.11.03, 14:30:02 --> Scraping Called. Total Share:389
+2022.11.03, 14:30:04 --> Sms Send Success (To - 8801781400109). MessageId: 0350b4cf-b0da-4ff0-bf54-8027ea04e819
+2022.11.06, 10:30:02 --> Scraping Called. Total Share:389
+2022.11.06, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 99fa059a-5830-4578-a529-b438b9fdc83a
+2022.11.06, 11:30:01 --> Scraping Called. Total Share:389
+2022.11.06, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: f650c436-d23f-4dec-9736-c1931e816f4c
+2022.11.06, 12:30:02 --> Scraping Called. Total Share:389
+2022.11.06, 12:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 10a56fc5-e484-44ec-8d07-4371f28c8dc5
+2022.11.06, 13:30:02 --> Scraping Called. Total Share:389
+2022.11.06, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: c6816034-9984-4a97-a53e-67eab9348511
+2022.11.06, 14:30:01 --> Scraping Called. Total Share:389
+2022.11.06, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 74dcd277-39ce-43c2-a38d-bf9afc67a5af
+2022.11.07, 10:30:02 --> Scraping Called. Total Share:389
+2022.11.07, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 28e045e0-205a-4ac7-ab24-8203182d45e1
+2022.11.07, 11:30:01 --> Scraping Called. Total Share:389
+2022.11.07, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 693ace9e-000e-4acf-8b74-d9abdfdea406
+2022.11.07, 12:30:01 --> Scraping Called. Total Share:389
+2022.11.07, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 6412cfb8-ccaf-43ad-bde7-c2d112e92a52
+2022.11.07, 13:30:02 --> Scraping Called. Total Share:389
+2022.11.07, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 41daf50c-9e93-4d34-b449-d80ca61c9dfe
+2022.11.07, 14:30:01 --> Scraping Called. Total Share:389
+2022.11.07, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 952ebbd6-cb13-4abc-b905-f21bce489470
+2022.11.08, 10:30:02 --> Scraping Called. Total Share:389
+2022.11.08, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 570ccf02-1565-4e80-b42d-74848d8d8bd2
+2022.11.08, 11:30:01 --> Scraping Called. Total Share:389
+2022.11.08, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 5edcafe5-c2f7-40ff-a152-a54990024d66
+2022.11.08, 12:30:02 --> Scraping Called. Total Share:389
+2022.11.08, 12:30:03 --> Sms Send Success (To - 8801781400109). MessageId: a4a21db9-b808-44d6-8b7e-31470c523c8d
+2022.11.08, 13:30:01 --> Scraping Called. Total Share:389
+2022.11.08, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: f317fb47-c9a1-4bfb-aa4e-e616b5e59b0d
+2022.11.08, 14:30:01 --> Scraping Called. Total Share:389
+2022.11.08, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 2c9c3c12-27ad-4158-aa59-683ca551885b
+2022.11.09, 10:30:02 --> Scraping Called. Total Share:389
+2022.11.09, 10:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 7762623c-a928-44d8-a15d-5963d279dfbf
+2022.11.09, 11:30:01 --> Scraping Called. Total Share:389
+2022.11.09, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 54cfbacd-1e94-4f2f-9278-e987fc1c4b05
+2022.11.09, 12:30:01 --> Scraping Called. Total Share:389
+2022.11.09, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 2d7d5fee-e52f-480e-a571-cb862046617e
+2022.11.09, 13:30:01 --> Scraping Called. Total Share:389
+2022.11.09, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 38106ffb-55c0-4220-a2cc-6dbce29c3989
+2022.11.09, 14:30:02 --> Scraping Called. Total Share:389
+2022.11.09, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 0e5d43d1-f3b8-42a8-ba9a-0a93f3fb18a3
+2022.11.10, 10:30:02 --> Scraping Called. Total Share:389
+2022.11.10, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: da15e31f-57df-4d44-82bd-c5ee12716ece
+2022.11.10, 11:30:01 --> Scraping Called. Total Share:389
+2022.11.10, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 79743d43-3bbf-42c1-93fe-6b76c1afc71c
+2022.11.10, 12:30:01 --> Scraping Called. Total Share:389
+2022.11.10, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 3db7e38a-9c44-4644-9ea3-926e62486402
+2022.11.10, 13:30:02 --> Scraping Called. Total Share:389
+2022.11.10, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 9d6d8fe0-8a15-4102-ada6-cbb6cd79340a
+2022.11.10, 14:30:01 --> Scraping Called. Total Share:389
+2022.11.10, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 3406d689-4358-40be-9f77-e8cb9449e776
+2022.11.13, 10:30:02 --> Scraping Called. Total Share:0
+2022.11.13, 10:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 000c6349-60c0-40fc-83a3-b432548e5533
+2022.11.13, 11:30:02 --> Scraping Called. Total Share:389
+2022.11.13, 11:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 2a95e3e5-f5dc-402b-9878-60b00d69aa63
+2022.11.13, 12:30:02 --> Scraping Called. Total Share:389
+2022.11.13, 12:30:03 --> Sms Send Success (To - 8801781400109). MessageId: cd9ea709-1d2c-4957-abf5-e21ca1adc32c
+2022.11.13, 13:30:01 --> Scraping Called. Total Share:389
+2022.11.13, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 59252f83-e362-4ee8-a27d-6f9edda9b999
+2022.11.13, 14:30:02 --> Scraping Called. Total Share:0
+2022.11.13, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: fe1e9f3c-1b6f-484b-803c-eb29b24efdd1
+2022.11.14, 10:30:02 --> Scraping Called. Total Share:389
+2022.11.14, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: f215c83d-2de7-463c-913c-f4b957f1c42c
+2022.11.14, 11:30:01 --> Scraping Called. Total Share:389
+2022.11.14, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 8344e404-60b4-416b-8ded-991dbf3d11e1
+2022.11.14, 12:30:01 --> Scraping Called. Total Share:389
+2022.11.14, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: e60d7bfb-0d8a-44c9-9352-fd1bd9b5964c
+2022.11.14, 13:30:02 --> Scraping Called. Total Share:389
+2022.11.14, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 24fb7dbe-da3a-421f-b94e-53e04f5e2ad3
+2022.11.14, 14:30:01 --> Scraping Called. Total Share:389
+2022.11.14, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: d6ebb2a3-db99-456e-8c92-73c9178e2a98
+2022.11.15, 10:30:02 --> Scraping Called. Total Share:389
+2022.11.15, 10:30:02 --> Sms Send Success (To - 8801781400109). MessageId: dc10d68d-1a8a-456e-9837-079f4e3e6006
+2022.11.15, 11:30:01 --> Scraping Called. Total Share:389
+2022.11.15, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 63a763ba-c64b-47e9-95ed-bebad8b3b288
+2022.11.15, 12:30:01 --> Scraping Called. Total Share:389
+2022.11.15, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: a9d78764-c6e9-455d-9139-dde8d4f1aca0
+2022.11.15, 13:30:01 --> Scraping Called. Total Share:0
+2022.11.15, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: b7b4fec0-16f2-4a46-b885-3f8edc510831
+2022.11.15, 14:30:01 --> Scraping Called. Total Share:389
+2022.11.15, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: b9337ee7-ee48-4e76-8c3e-29f2c314263e
+2022.11.16, 10:30:01 --> Scraping Called. Total Share:390
+2022.11.16, 10:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 301553d3-cd7a-4ba6-8685-7537e325d68f
+2022.11.16, 11:30:01 --> Scraping Called. Total Share:390
+2022.11.16, 11:30:03 --> Sms Send Success (To - 8801781400109). MessageId: bfac09ba-cf9c-4cf8-bd75-b11e74a5ea6f
+2022.11.16, 12:30:01 --> Scraping Called. Total Share:390
+2022.11.16, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 18e80358-7aad-4790-96ca-df70a9da6b5a
+2022.11.16, 13:30:02 --> Scraping Called. Total Share:0
+2022.11.16, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: d63f8faf-ad02-46b4-81bd-58f6629c243e
+2022.11.16, 14:30:01 --> Scraping Called. Total Share:390
+2022.11.16, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 1bb55051-0982-4921-8556-ef7fbcf263f5
+2022.11.17, 10:30:01 --> Scraping Called. Total Share:390
+2022.11.17, 10:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 76c299aa-6e6b-46b2-8898-2e9cd09629e4
+2022.11.17, 11:30:02 --> Scraping Called. Total Share:390
+2022.11.17, 11:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 17a2307f-1b3b-431c-9e75-136968b1fbe3
+2022.11.17, 12:30:01 --> Scraping Called. Total Share:390
+2022.11.17, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 0e199655-3834-48cd-9954-a04ebbe6cb54
+2022.11.17, 13:30:03 --> Scraping Called. Total Share:390
+2022.11.17, 13:30:04 --> Sms Send Success (To - 8801781400109). MessageId: 9854a3e5-6564-4e5a-9eef-3a2171923eb6
+2022.11.17, 14:30:02 --> Scraping Called. Total Share:390
+2022.11.17, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: f9898928-321e-4a15-81fe-8f44f9e879d0
+2022.11.20, 10:30:02 --> Scraping Called. Total Share:390
+2022.11.20, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: ea9efd2d-e189-43c6-a2c8-a15fcbac8e0f
+2022.11.20, 11:30:01 --> Scraping Called. Total Share:390
+2022.11.20, 11:30:01 --> Sms Send Success (To - 8801781400109). MessageId: 7e900938-dc9b-49b0-b3bc-7143e5868167
+2022.11.20, 12:30:01 --> Scraping Called. Total Share:390
+2022.11.20, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 402bb023-04e2-4586-a960-f3cd399eaf0e
+2022.11.20, 13:30:02 --> Scraping Called. Total Share:390
+2022.11.20, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 961589e4-b3b9-4b5e-9d58-ce0e04ea3f3d
+2022.11.20, 14:30:01 --> Scraping Called. Total Share:390
+2022.11.20, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 194cd356-8122-4275-a202-18e9db5b22f9
+2022.11.21, 10:30:02 --> Scraping Called. Total Share:390
+2022.11.21, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: cececbf9-82ff-4a1f-aee6-700cff80e6f4
+2022.11.21, 11:30:01 --> Scraping Called. Total Share:390
+2022.11.21, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 7fc49ec6-5257-4b04-9100-54a7a9b6068b
+2022.11.21, 12:30:01 --> Scraping Called. Total Share:390
+2022.11.21, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 1ce69ce2-fd5e-43f5-bf27-9bd8ff5234a2
+2022.11.21, 13:30:01 --> Scraping Called. Total Share:390
+2022.11.21, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: b8f8b41d-7114-4ce2-a357-7cf6fb4f663c
+2022.11.21, 14:30:02 --> Scraping Called. Total Share:390
+2022.11.21, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: c4fd9882-60a0-4868-9bd0-3aaef48d7e68
+2022.11.22, 10:30:01 --> Scraping Called. Total Share:390
+2022.11.22, 10:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 1fe5f543-ad29-45ba-b0cf-7f92a7b00c0a
+2022.11.22, 11:30:01 --> Scraping Called. Total Share:390
+2022.11.22, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: e81e0ff7-d016-4734-8c1a-17579dc4c0f8
+2022.11.22, 12:30:01 --> Scraping Called. Total Share:390
+2022.11.22, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: d1964f70-ed70-43e1-996c-e15065d9cd3b
+2022.11.22, 13:30:02 --> Scraping Called. Total Share:390
+2022.11.22, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: a7f8b49b-78f2-4ab4-914e-ec7e85a0cc66
+2022.11.22, 14:30:01 --> Scraping Called. Total Share:390
+2022.11.22, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: bc481157-e945-449f-82b7-f0cd0922c4f1
+2022.11.23, 10:30:02 --> Scraping Called. Total Share:390
+2022.11.23, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: c7e8b851-442e-4c26-9ea7-b4411e74f9e9
+2022.11.23, 11:30:01 --> Scraping Called. Total Share:390
+2022.11.23, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: e1c36b2d-b65a-40d9-887d-38f0ace7b1f9
+2022.11.23, 12:30:01 --> Scraping Called. Total Share:390
+2022.11.23, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 2a19f238-b027-4251-a842-2893e7b3a900
+2022.11.23, 13:30:02 --> Scraping Called. Total Share:390
+2022.11.23, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: cfc707df-5464-412b-8e1f-89295eec4fbc
+2022.11.23, 14:30:01 --> Scraping Called. Total Share:390
+2022.11.23, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 53861238-a384-4adc-9cb3-33c0ba2904b0
+2022.11.24, 10:30:01 --> Scraping Called. Total Share:0
+2022.11.24, 10:30:02 --> Sms Send Success (To - 8801781400109). MessageId: b8500b14-c783-4bfb-b341-a1259899e317
+2022.11.24, 11:30:01 --> Scraping Called. Total Share:390
+2022.11.24, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 8af480f9-e2fd-4a04-8f4f-4819ff5a488d
+2022.11.24, 12:30:01 --> Scraping Called. Total Share:390
+2022.11.24, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: e2174436-4ff3-4482-88ac-1309c2b665b9
+2022.11.24, 13:30:01 --> Scraping Called. Total Share:390
+2022.11.24, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 9507d82c-0a9a-471a-99b0-7e4e1192b551
+2022.11.24, 14:30:01 --> Scraping Called. Total Share:0
+2022.11.24, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: e3734768-2fb3-4ad7-aacc-b19c44605436
+2022.11.27, 10:30:02 --> Scraping Called. Total Share:390
+2022.11.27, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 19dbb7ff-b4f2-4659-ba45-7d9f77270576
+2022.11.27, 11:30:01 --> Scraping Called. Total Share:390
+2022.11.27, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 235a6607-aa12-4c0c-89c6-4d497975d9e2
+2022.11.27, 12:30:01 --> Scraping Called. Total Share:390
+2022.11.27, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 12cc19cd-2e9f-439e-97b0-a3cc39925043
+2022.11.27, 13:30:01 --> Scraping Called. Total Share:390
+2022.11.27, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: cb7741db-d3b9-417b-a988-d1f4dd131dda
+2022.11.27, 14:30:02 --> Scraping Called. Total Share:390
+2022.11.27, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: c0a40c6c-e0fa-4123-bbc2-4620ab90e410
+2022.11.28, 10:30:02 --> Scraping Called. Total Share:390
+2022.11.28, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 84747bb2-1f10-4cdb-a661-b9b3c0e26f8e
+2022.11.28, 11:30:01 --> Scraping Called. Total Share:390
+2022.11.28, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: d7157ec8-8473-46ef-b61e-01395f073e67
+2022.11.28, 12:30:01 --> Scraping Called. Total Share:390
+2022.11.28, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 549c73d3-e2ef-4f4a-b374-42fe7aa2b89d
+2022.11.28, 13:30:02 --> Scraping Called. Total Share:390
+2022.11.28, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 8c3e14be-c798-4535-99d4-cefde2850247
+2022.11.28, 14:30:01 --> Scraping Called. Total Share:390
+2022.11.28, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 11baea24-a2ec-4117-89c3-64e29dd4caa3
+2022.11.29, 10:30:01 --> Scraping Called. Total Share:0
+2022.11.29, 10:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 8c7aabbe-1b5a-4bb3-b3a2-1d1e8eb1a5e5
+2022.11.29, 11:30:01 --> Scraping Called. Total Share:390
+2022.11.29, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 6ea3ced9-458e-45d2-9612-bcbfe8ace95f
+2022.11.29, 12:30:02 --> Scraping Called. Total Share:390
+2022.11.29, 12:30:03 --> Sms Send Success (To - 8801781400109). MessageId: b96ad374-3e47-4413-a0c5-ae91f7ac326d
+2022.11.29, 13:30:01 --> Scraping Called. Total Share:390
+2022.11.29, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: d0145341-9d9f-43c8-b5db-1379a9530282
+2022.11.29, 14:30:02 --> Scraping Called. Total Share:0
+2022.11.29, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: fccb063e-6812-445f-bf4d-40059061da87
+2022.11.30, 10:30:02 --> Scraping Called. Total Share:390
+2022.11.30, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 0b080270-3c78-4566-8fc1-055cc06d4279
+2022.11.30, 11:30:01 --> Scraping Called. Total Share:390
+2022.11.30, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 6b99881b-9684-4e30-b07a-211d2a1d1032
+2022.11.30, 12:30:01 --> Scraping Called. Total Share:390
+2022.11.30, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: d9b35d98-8916-4645-bf72-dbf615500ff4
+2022.11.30, 13:30:02 --> Scraping Called. Total Share:390
+2022.11.30, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 78c0edbe-cb56-4326-8f31-51e7e799edcc
+2022.11.30, 14:30:02 --> Scraping Called. Total Share:390
+2022.11.30, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 5104fb54-c88b-46a8-986c-428bff24ebe9
+2022.12.01, 10:30:02 --> Scraping Called. Total Share:390
+2022.12.01, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: e24f89d3-5f44-434f-a6b8-5588471a04fa
+2022.12.01, 11:30:01 --> Scraping Called. Total Share:390
+2022.12.01, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 3f3964be-9f3b-4d63-9f87-53335c346394
+2022.12.01, 12:30:02 --> Scraping Called. Total Share:390
+2022.12.01, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 5d53f23e-9ab4-4ba6-8261-8a616d9c76c8
+2022.12.01, 13:30:01 --> Scraping Called. Total Share:390
+2022.12.01, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 362740e5-aaa6-41ba-a118-ee51c472151b
+2022.12.01, 14:30:02 --> Scraping Called. Total Share:390
+2022.12.01, 14:30:04 --> Sms Send Success (To - 8801781400109). MessageId: 9f375494-1387-4bea-ae1d-905840ba538a
+2022.12.04, 10:30:02 --> Scraping Called. Total Share:390
+2022.12.04, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 4f263175-057a-4b57-940d-b5ff0ae691a8
+2022.12.04, 11:30:01 --> Scraping Called. Total Share:390
+2022.12.04, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 1cbd91e3-93c9-486e-b03c-948b275fd240
+2022.12.04, 12:30:01 --> Scraping Called. Total Share:390
+2022.12.04, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: fea2e58d-f7af-490d-a1f5-3ce1648add31
+2022.12.04, 13:30:02 --> Scraping Called. Total Share:390
+2022.12.04, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 516d0233-0dcf-4f8a-ba82-eabe87515c4d
+2022.12.04, 14:30:02 --> Scraping Called. Total Share:390
+2022.12.04, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 27192f39-9ea9-4c73-b6fe-941e2879ca3c
+2022.12.05, 10:30:03 --> Scraping Called. Total Share:390
+2022.12.05, 10:30:04 --> Sms Send Success (To - 8801781400109). MessageId: 62c9a3db-e796-46ba-b3ac-bd085dd0b968
+2022.12.05, 11:30:01 --> Scraping Called. Total Share:390
+2022.12.05, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: d5bf7211-3939-44d6-ac2f-c17c66925cd3
+2022.12.05, 12:30:01 --> Scraping Called. Total Share:390
+2022.12.05, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 7bd805b4-6e8e-40dd-adfc-3247fae92847
+2022.12.05, 13:30:01 --> Scraping Called. Total Share:390
+2022.12.05, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: e6150aad-dc30-46f2-a46d-673ffe5b5dd6
+2022.12.05, 14:30:04 --> Scraping Called. Total Share:390
+2022.12.05, 14:30:05 --> Sms Send Success (To - 8801781400109). MessageId: ded07000-82f1-41d3-9eed-6f391472d0e4
+2022.12.06, 10:30:02 --> Scraping Called. Total Share:390
+2022.12.06, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: d21bd006-f733-43f0-ac7f-d317b274dab1
+2022.12.06, 11:30:02 --> Scraping Called. Total Share:390
+2022.12.06, 11:30:03 --> Sms Send Success (To - 8801781400109). MessageId: f4021563-f672-4334-b4d9-dd66dee7f27b
+2022.12.06, 12:30:02 --> Scraping Called. Total Share:390
+2022.12.06, 12:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 493b7520-3e33-4c55-bc77-007303148f9d
+2022.12.06, 13:30:03 --> Scraping Called. Total Share:390
+2022.12.06, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 369f6a6c-90fc-4eac-b2b9-7f2ac42ff681
+2022.12.06, 14:30:01 --> Scraping Called. Total Share:390
+2022.12.06, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 0e3e01f4-680e-4a79-8d6c-82bec7dd9ef1
+2022.12.07, 10:30:03 --> Scraping Called. Total Share:390
+2022.12.07, 10:30:04 --> Sms Send Success (To - 8801781400109). MessageId: 5008e633-ca47-40e5-85f8-0c4bf7917377
+2022.12.07, 11:30:01 --> Scraping Called. Total Share:390
+2022.12.07, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: f261a75e-cdf2-4a35-8a37-3c4470fef543
+2022.12.07, 12:30:01 --> Scraping Called. Total Share:390
+2022.12.07, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: f95dc513-b4f7-4d4a-b67a-7f190b78d078
+2022.12.07, 13:30:01 --> Scraping Called. Total Share:390
+2022.12.07, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 60d5ad8f-f798-4a25-933b-f1cd3f54eb61
+2022.12.07, 14:30:06 --> Scraping Called. Total Share:390
+2022.12.07, 14:30:07 --> Sms Send Success (To - 8801781400109). MessageId: fa0bf9f2-eb01-4325-9d27-d0b1b0486e27
+2022.12.08, 10:30:09 --> Scraping Called. Total Share:390
+2022.12.08, 10:30:10 --> Sms Send Success (To - 8801781400109). MessageId: 42fab906-e0a3-4060-886d-d5e353fa7b95
+2022.12.08, 11:30:03 --> Scraping Called. Total Share:390
+2022.12.08, 11:30:04 --> Sms Send Success (To - 8801781400109). MessageId: c18f93a0-3993-4950-b5cb-00d9b36eeaa8
+2022.12.08, 12:30:05 --> Scraping Called. Total Share:390
+2022.12.08, 12:30:06 --> Sms Send Success (To - 8801781400109). MessageId: 59511f1a-933b-4c28-9a62-515a6e310742
+2022.12.08, 13:30:05 --> Scraping Called. Total Share:390
+2022.12.08, 13:30:06 --> Sms Send Success (To - 8801781400109). MessageId: 9b774c41-ea76-4a34-ad03-79149c8a8255
+2022.12.08, 14:30:03 --> Scraping Called. Total Share:390
+2022.12.08, 14:30:04 --> Sms Send Success (To - 8801781400109). MessageId: d5e28f58-c0c1-4045-9a2d-c15c255e073a
+2022.12.11, 10:30:02 --> Scraping Called. Total Share:390
+2022.12.11, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 084ddc26-bd74-4109-b322-e3415fa4aefe
+2022.12.11, 11:30:01 --> Scraping Called. Total Share:390
+2022.12.11, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 592dd91c-a15f-411a-b65d-2e21b692c176
+2022.12.11, 12:30:01 --> Scraping Called. Total Share:390
+2022.12.11, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 92c531c6-8259-4d6d-bf28-56290d5e056e
+2022.12.11, 13:30:01 --> Scraping Called. Total Share:390
+2022.12.11, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: fc630aef-4318-4619-b7c3-2bc93582f3dc
+2022.12.11, 14:30:02 --> Scraping Called. Total Share:0
+2022.12.11, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 366de3e0-ebc3-4d3e-8ca3-3a900d6db6fe
+2022.12.12, 10:30:02 --> Scraping Called. Total Share:390
+2022.12.12, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 7133ad62-4e88-4232-abd9-5a0a9e522efd
+2022.12.12, 11:30:01 --> Scraping Called. Total Share:390
+2022.12.12, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 151d6bd6-8992-430e-bbb5-472e62fe2ba3
+2022.12.12, 12:30:01 --> Scraping Called. Total Share:390
+2022.12.12, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: dfa99ef7-79dd-4335-afac-582171714a08
+2022.12.12, 13:30:04 --> Scraping Called. Total Share:390
+2022.12.12, 13:30:05 --> Sms Send Success (To - 8801781400109). MessageId: 0aff61cc-63c6-4ec8-8b9e-5363eb949343
+2022.12.12, 14:30:01 --> Scraping Called. Total Share:390
+2022.12.12, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 8019059c-b1db-4de5-a7b2-dd05422cff86
+2022.12.13, 10:30:02 --> Scraping Called. Total Share:390
+2022.12.13, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 5d061600-a285-4ad2-a505-2f23b4959170
+2022.12.13, 11:30:01 --> Scraping Called. Total Share:390
+2022.12.13, 11:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 5e1df436-d072-4dd0-a986-4b0e288d58f0
+2022.12.13, 12:30:01 --> Scraping Called. Total Share:390
+2022.12.13, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 718fdabc-52b3-4097-8fe0-73a1db5d299b
+2022.12.13, 13:30:03 --> Scraping Called. Total Share:390
+2022.12.13, 13:30:04 --> Sms Send Success (To - 8801781400109). MessageId: b1d8e1e8-4dcf-4220-b417-bc8304de4d8d
+2022.12.13, 14:30:01 --> Scraping Called. Total Share:390
+2022.12.13, 14:30:02 --> Sms Send Success (To - 8801781400109). MessageId: f998ee12-0fd6-48f2-97be-ca92cb6dcc41
+2022.12.14, 10:30:02 --> Scraping Called. Total Share:391
+2022.12.14, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: bacdb16a-0e61-4641-8eec-2c63ea70b0f3
+2022.12.14, 11:30:01 --> Scraping Called. Total Share:391
+2022.12.14, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 1fb09d4d-4b6d-43b3-b289-57c86b640092
+2022.12.14, 12:30:01 --> Scraping Called. Total Share:391
+2022.12.14, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: ab4297b1-a6d7-4ce6-8df5-dd30159c3efb
+2022.12.14, 13:30:01 --> Scraping Called. Total Share:391
+2022.12.14, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 79d77960-e549-4d9b-8851-c708314d4da1
+2022.12.14, 14:30:03 --> Scraping Called. Total Share:391
+2022.12.14, 14:30:04 --> Sms Send Success (To - 8801781400109). MessageId: c6a86c9a-1fe0-43f7-bba2-d04b23a4449f
+2022.12.15, 10:30:02 --> Scraping Called. Total Share:0
+2022.12.15, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: de072c56-7241-4e5a-ab27-52eb9844fc72
+2022.12.15, 11:30:01 --> Scraping Called. Total Share:391
+2022.12.15, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 97de2fb2-313d-43e5-9cbb-8456d8dc7b68
+2022.12.15, 12:30:01 --> Scraping Called. Total Share:391
+2022.12.15, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: a3ef2632-a349-4f81-bfc7-b82ed7128153
+2022.12.15, 13:30:01 --> Scraping Called. Total Share:391
+2022.12.15, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 14df5eee-c85d-4d0b-ad19-5a22e6b37f1f
+2022.12.15, 14:30:02 --> Scraping Called. Total Share:0
+2022.12.15, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: ff04bd3e-a578-4acb-bbb6-020c056b7506
+2022.12.18, 10:30:02 --> Scraping Called. Total Share:392
+2022.12.18, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: e4cf85ed-9c61-4ea4-bf0d-d0571aa1632b
+2022.12.18, 11:30:01 --> Scraping Called. Total Share:392
+2022.12.18, 11:30:02 --> Sms Send Success (To - 8801781400109). MessageId: af6491dc-35e7-4523-abde-a9c19fa7595c
+2022.12.18, 12:30:01 --> Scraping Called. Total Share:392
+2022.12.18, 12:30:08 --> Sms Send Success (To - 8801781400109). MessageId: 1154f60f-7d56-4d15-a822-5f345cf04cb3
+2022.12.18, 13:30:02 --> Scraping Called. Total Share:392
+2022.12.18, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 5b0da6ad-8f6b-4477-80fe-2446e756abe4
+2022.12.18, 14:30:02 --> Scraping Called. Total Share:392
+2022.12.18, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: a2820554-b408-414f-b102-d51dfd4e6bfb
+2022.12.19, 10:30:02 --> Scraping Called. Total Share:0
+2022.12.19, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: a1ee9dac-af4b-458d-9acd-b31e25cbb442
+2022.12.19, 11:30:02 --> Scraping Called. Total Share:0
+2022.12.19, 11:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 1914dcc2-96b5-4e8d-a843-2e7ab8fc1269
+2022.12.19, 12:30:02 --> Scraping Called. Total Share:392
+2022.12.19, 12:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 2ac1b3d2-da0b-4cf1-bcf1-ca6d9b0a6f48
+2022.12.19, 13:30:02 --> Scraping Called. Total Share:392
+2022.12.19, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: ca08d8f5-7eee-4949-81ff-54a360576276
+2022.12.19, 14:30:02 --> Scraping Called. Total Share:392
+2022.12.19, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 755d35c1-0f16-4320-b815-7e588f8bc4c6
+2022.12.20, 10:30:02 --> Scraping Called. Total Share:392
+2022.12.20, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 229933a0-47a8-4159-b602-ebb0cac5c052
+2022.12.20, 11:30:02 --> Scraping Called. Total Share:392
+2022.12.20, 11:30:03 --> Sms Send Success (To - 8801781400109). MessageId: f09eab41-8b8c-4a48-8d99-ac1615cfcfe7
+2022.12.20, 12:30:01 --> Scraping Called. Total Share:0
+2022.12.20, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 882a6f9a-0446-4a64-87dd-2cb161f52bc7
+2022.12.20, 13:30:01 --> Scraping Called. Total Share:0
+2022.12.20, 13:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 23368e01-9879-4a71-ac5f-2c8888a3975f
+2022.12.20, 14:30:02 --> Scraping Called. Total Share:0
+2022.12.20, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: d1b899a0-ce33-4fe4-b4eb-467491516a8a
+2022.12.21, 10:30:01 --> Scraping Called. Total Share:392
+2022.12.21, 10:30:02 --> Sms Send Success (To - 8801781400109). MessageId: e60af8ac-7f25-4e30-8dfd-bf056adc44aa
+2022.12.21, 11:30:02 --> Scraping Called. Total Share:392
+2022.12.21, 11:30:03 --> Sms Send Success (To - 8801781400109). MessageId: d0cd73a1-5b49-41c9-8f59-ba5088abd6a8
+2022.12.21, 12:30:02 --> Scraping Called. Total Share:392
+2022.12.21, 12:30:03 --> Sms Send Success (To - 8801781400109). MessageId: f3877274-67eb-4f64-a761-fb1263039bac
+2022.12.21, 13:30:02 --> Scraping Called. Total Share:392
+2022.12.21, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 24dbc5f8-6111-445c-91ea-aadbceeda9ac
+2022.12.21, 14:30:03 --> Scraping Called. Total Share:0
+2022.12.21, 14:30:04 --> Sms Send Success (To - 8801781400109). MessageId: 851f6d7f-6ee9-49e6-bd9a-67e2e1dd9ca2
+2022.12.22, 10:30:02 --> Scraping Called. Total Share:392
+2022.12.22, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 77387038-61e2-4e04-955b-351eaea7d957
+2022.12.22, 11:30:02 --> Scraping Called. Total Share:392
+2022.12.22, 11:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 5b642a85-30ca-4c84-a630-114095539850
+2022.12.22, 12:30:02 --> Scraping Called. Total Share:392
+2022.12.22, 12:30:03 --> Sms Send Success (To - 8801781400109). MessageId: dca87c96-4dbd-498b-a793-75c4219a594c
+2022.12.22, 13:30:02 --> Scraping Called. Total Share:392
+2022.12.22, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 955b2bb8-01cf-48f6-ad3c-d9aa0fffee70
+2022.12.22, 14:30:03 --> Scraping Called. Total Share:392
+2022.12.22, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 7d506a48-ea86-4e11-84cf-33b967b931e7
+2022.12.25, 10:30:02 --> Scraping Called. Total Share:392
+2022.12.25, 10:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 2c4068c0-dfb7-4d86-b2b9-9f53dc6120b5
+2022.12.25, 11:30:02 --> Scraping Called. Total Share:392
+2022.12.25, 11:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 7dea3c32-70f3-414d-8b6d-742e513a0846
+2022.12.25, 12:30:02 --> Scraping Called. Total Share:392
+2022.12.25, 12:30:03 --> Sms Send Success (To - 8801781400109). MessageId: d27b93e9-af9e-4ed6-931c-eb5b996987e3
+2022.12.25, 13:30:02 --> Scraping Called. Total Share:392
+2022.12.25, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 79a1cc4d-9f22-4897-83f8-a463d66f6ef2
+2022.12.25, 14:30:02 --> Scraping Called. Total Share:392
+2022.12.25, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: cc1cb32c-33e0-4422-9ea7-61a78f3733d6
+2022.12.26, 10:30:02 --> Scraping Called. Total Share:0
+2022.12.26, 10:30:08 --> Sms Send Success (To - 8801781400109). MessageId: 8759931d-8d89-49f0-9237-f624df92c7d2
+2022.12.26, 11:30:02 --> Scraping Called. Total Share:392
+2022.12.26, 11:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 4b9ec2db-327a-4277-99a8-31afcc00eb7e
+2022.12.26, 12:30:01 --> Scraping Called. Total Share:0
+2022.12.26, 12:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 717416d8-e084-40b3-89be-02e37554fada
+2022.12.26, 13:30:02 --> Scraping Called. Total Share:392
+2022.12.26, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 779e3f6a-88f6-4415-b6fb-15d18058c233
+2022.12.26, 14:30:02 --> Scraping Called. Total Share:392
+2022.12.26, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 5a70a7b9-cfb6-47ed-b689-75f17365a6d1
+2022.12.27, 10:30:02 --> Scraping Called. Total Share:392
+2022.12.27, 10:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 8b0ac6e6-0482-4fa4-890c-050a183af768
+2022.12.27, 11:30:02 --> Scraping Called. Total Share:392
+2022.12.27, 11:30:03 --> Sms Send Success (To - 8801781400109). MessageId: f4aa0e63-851c-4502-a940-005a1effe235
+2022.12.27, 12:30:02 --> Scraping Called. Total Share:392
+2022.12.27, 12:30:03 --> Sms Send Success (To - 8801781400109). MessageId: e2814109-7cae-4bdc-8994-d5deab3896e3
+2022.12.27, 13:30:02 --> Scraping Called. Total Share:392
+2022.12.27, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 16693ae1-f32d-46a2-9632-3f4ed46365f0
+2022.12.27, 14:30:02 --> Scraping Called. Total Share:392
+2022.12.27, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 574969d9-3fd8-4a54-a4e4-69146a9cd566
+2022.12.28, 10:30:03 --> Scraping Called. Total Share:392
+2022.12.28, 10:30:04 --> Sms Send Success (To - 8801781400109). MessageId: 220dc229-aa32-4833-9ab0-2b162cbb9749
+2022.12.28, 11:30:02 --> Scraping Called. Total Share:392
+2022.12.28, 11:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 8e05a9b6-8864-4c59-81a0-659430181c6a
+2022.12.28, 12:30:02 --> Scraping Called. Total Share:392
+2022.12.28, 12:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 2b3fbf2e-0c12-4bbb-acbf-a51a3d410ca4
+2022.12.28, 13:30:03 --> Scraping Called. Total Share:392
+2022.12.28, 13:30:04 --> Sms Send Success (To - 8801781400109). MessageId: d212dd57-b97d-4c98-8bd0-314250d0b8d0
+2022.12.28, 14:30:02 --> Scraping Called. Total Share:392
+2022.12.28, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 76b74d6a-1d72-440c-88f8-90d64ea7c0be
+2022.12.29, 10:30:02 --> Scraping Called. Total Share:0
+2022.12.29, 10:30:02 --> Sms Send Success (To - 8801781400109). MessageId: 2f212945-18d9-43de-b171-9ba0dbf6c8db
+2022.12.29, 11:30:02 --> Scraping Called. Total Share:392
+2022.12.29, 11:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 355a405d-3650-4a10-8e4b-ee40239f6c9e
+2022.12.29, 12:30:02 --> Scraping Called. Total Share:0
+2022.12.29, 12:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 8d7d8fa2-9b99-462d-8416-06d792baf9f2
+2022.12.29, 13:30:02 --> Scraping Called. Total Share:0
+2022.12.29, 13:30:03 --> Sms Send Success (To - 8801781400109). MessageId: 2fe8b85f-5270-431b-b486-e00463b6c3a1
+2022.12.29, 14:30:02 --> Scraping Called. Total Share:392
+2022.12.29, 14:30:03 --> Sms Send Success (To - 8801781400109). MessageId: d465abeb-b37d-451b-9fa0-1699bf2fd741
